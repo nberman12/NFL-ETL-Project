@@ -1,0 +1,1406 @@
+,Name,POS,Age,HT,WT,Exp,College,team
+0,Josh Allen17,QB,23,"6' 5""",237 lbs,3,Wyoming,Bills
+1,Matt Barkley5,QB,29,"6' 2""",234 lbs,8,USC,Bills
+2,Jake Fromm10,QB,21,"6' 2""",220 lbs,R,Georgia,Bills
+3,Davis Webb7,QB,25,"6' 5""",225 lbs,3,California,Bills
+4,Reggie Gilliam14,RB,--,"6' 1""",255 lbs,R,Toledo,Bills
+5,Taiwan Jones26,RB,31,"6' 0""",195 lbs,10,Eastern Washington,Bills
+6,Zack Moss20,RB,22,"5' 10""",222 lbs,R,Utah,Bills
+7,Devin Singletary26,RB,22,"5' 7""",203 lbs,2,Florida Atlantic,Bills
+8,Christian Wade45,RB,28,"5' 7""",185 lbs,1,--,Bills
+9,Antonio Williams,RB,--,"5' 11""",215 lbs,R,North Carolina,Bills
+10,T.J. Yeldon22,RB,26,"6' 1""",223 lbs,6,Alabama,Bills
+11,Patrick DiMarco42,FB,31,"6' 1""",234 lbs,9,South Carolina,Bills
+12,Cole Beasley10,WR,31,"5' 8""",174 lbs,9,SMU,Bills
+13,John Brown15,WR,30,"5' 11""",178 lbs,7,Pittsburg State,Bills
+14,Gabriel Davis3,WR,21,"6' 3""",212 lbs,R,UCF,Bills
+15,Stefon Diggs14,WR,26,"6' 0""",191 lbs,6,Maryland,Bills
+16,Nick Easley86,WR,23,"5' 11""",205 lbs,1,Iowa,Bills
+17,Robert Foster16,WR,25,"6' 2""",196 lbs,3,Alabama,Bills
+18,Isaiah Hodgins87,WR,21,"6' 4""",209 lbs,R,Oregon State,Bills
+19,Ray-Ray McCloud14,WR,23,"5' 9""",190 lbs,3,Clemson,Bills
+20,Isaiah McKenzie19,WR,25,"5' 8""",173 lbs,4,Georgia,Bills
+21,Andre Roberts18,WR,32,"5' 11""",195 lbs,11,Citadel,Bills
+22,Duke Williams82,WR,26,"6' 3""",225 lbs,2,Auburn,Bills
+23,Nate Becker84,TE,24,"6' 5""",264 lbs,1,Miami (OH),Bills
+24,Jason Croom80,TE,26,"6' 5""",246 lbs,3,Tennessee,Bills
+25,Dawson Knox88,TE,23,"6' 4""",254 lbs,2,Ole Miss,Bills
+26,Tyler Kroft81,TE,27,"6' 6""",252 lbs,6,Rutgers,Bills
+27,Lee Smith85,TE,32,"6' 6""",265 lbs,10,Marshall,Bills
+28,Tommy Sweeney89,TE,24,"6' 4""",251 lbs,2,Boston College,Bills
+29,Evan Boehm76,C,26,"6' 3""",321 lbs,5,Missouri,Bills
+30,Spencer Long61,C,29,"6' 5""",318 lbs,7,Nebraska,Bills
+31,Mitch Morse60,C,28,"6' 6""",305 lbs,6,Missouri,Bills
+32,Ike Boettger65,G,25,"6' 6""",313 lbs,3,Iowa,Bills
+33,Jon Feliciano76,G,28,"6' 4""",325 lbs,6,Miami (FL),Bills
+34,Marquel Harrell,G,--,"6' 3""",309 lbs,R,Auburn,Bills
+35,Garrett McGhin64,G,25,"6' 6""",302 lbs,2,East Carolina,Bills
+36,Quinton Spain67,G,28,"6' 4""",330 lbs,6,West Virginia,Bills
+37,Trey Adams,OT,--,"6' 8""",314 lbs,R,Washington,Bills
+38,Ryan Bates71,OT,23,"6' 4""",302 lbs,2,Penn State,Bills
+39,Dion Dawkins73,OT,26,"6' 5""",320 lbs,4,Temple,Bills
+40,Cody Ford70,OT,23,"6' 3""",329 lbs,2,Oklahoma,Bills
+41,Ty Nsekhe77,OT,34,"6' 8""",330 lbs,6,Texas State,Bills
+42,Victor Salako62,OT,26,"6' 6""",322 lbs,1,Oklahoma State,Bills
+43,Brandon Walton,OT,--,"6' 5""",300 lbs,R,Florida Atlantic,Bills
+44,Daryl Williams60,OT,27,"6' 6""",330 lbs,6,Oklahoma,Bills
+0,Ryan Fitzpatrick14,QB,37,"6' 2""",228 lbs,16,Harvard,Dolphins
+1,Josh Rosen3,QB,23,"6' 4""",215 lbs,3,UCLA,Dolphins
+2,Jake Rudock5,QB,27,"6' 3""",212 lbs,3,Michigan,Dolphins
+3,Tua Tagovailoa0,QB,22,"6' 1""",218 lbs,R,Alabama,Dolphins
+4,Kalen Ballage27,RB,24,"6' 2""",231 lbs,3,Arizona State,Dolphins
+5,Matt Breida22,RB,25,"5' 11""",195 lbs,4,Georgia Southern,Dolphins
+6,Myles Gaskin37,RB,23,"5' 10""",200 lbs,2,Washington,Dolphins
+7,Jordan Howard24,RB,25,"6' 0""",224 lbs,5,Indiana,Dolphins
+8,Patrick Laird42,RB,24,"6' 0""",205 lbs,2,California,Dolphins
+9,Malcolm Perry10,RB,--,"5' 9""",190 lbs,R,Navy,Dolphins
+10,De'Lance Turner34,RB,24,"5' 11""",214 lbs,3,Alcorn State,Dolphins
+11,Chandler Cox38,FB,23,"6' 1""",240 lbs,2,Auburn,Dolphins
+12,Matthew Cole,WR,--,"5' 10""",200 lbs,R,McKendree,Dolphins
+13,Isaiah Ford84,WR,24,"6' 2""",194 lbs,3,Virginia Tech,Dolphins
+14,Jakeem Grant19,WR,27,"5' 7""",171 lbs,5,Texas Tech,Dolphins
+15,Mack Hollins86,WR,26,"6' 4""",221 lbs,4,North Carolina,Dolphins
+16,Allen Hurns17,WR,28,"6' 3""",195 lbs,7,Miami (FL),Dolphins
+17,Gary Jennings16,WR,23,"6' 1""",216 lbs,2,West Virginia,Dolphins
+18,Ricardo Louis80,WR,26,"6' 2""",215 lbs,5,Auburn,Dolphins
+19,Kirk Merritt,WR,--,"6' 0""",215 lbs,R,Arkansas State,Dolphins
+20,DeVante Parker11,WR,27,"6' 3""",216 lbs,6,Louisville,Dolphins
+21,Preston Williams18,WR,23,"6' 5""",218 lbs,2,Colorado State,Dolphins
+22,Albert Wilson15,WR,27,"5' 9""",195 lbs,7,Georgia State,Dolphins
+23,Mike Gesicki88,TE,24,"6' 6""",250 lbs,3,Penn State,Dolphins
+24,Chris Myarick85,TE,24,"6' 5""",255 lbs,1,Temple,Dolphins
+25,Michael Roberts8,TE,25,"6' 5""",265 lbs,3,Toledo,Dolphins
+26,Durham Smythe81,TE,24,"6' 6""",260 lbs,3,Notre Dame,Dolphins
+27,Ted Karras75,C,27,"6' 4""",305 lbs,5,Illinois,Dolphins
+28,Donell Stanley,C,24,"6' 3""",322 lbs,R,South Carolina,Dolphins
+29,Keaton Sutherland74,C,23,"6' 5""",316 lbs,2,Texas A&M,Dolphins
+30,Shaq Calhoun62,G,24,"6' 3""",310 lbs,2,Mississippi State,Dolphins
+31,Michael Deiter63,G,23,"6' 6""",310 lbs,2,Wisconsin,Dolphins
+32,Robert Hunt50,G,23,"6' 5""",322 lbs,R,Louisiana-Lafayette,Dolphins
+33,Danny Isidora65,G,25,"6' 3""",306 lbs,4,Miami (FL),Dolphins
+34,Solomon Kindley66,G,22,"6' 4""",335 lbs,R,Georgia,Dolphins
+35,Julie'n Davenport70,OT,25,"6' 7""",325 lbs,4,Bucknell,Dolphins
+36,Jesse Davis77,OT,28,"6' 6""",325 lbs,4,Idaho,Dolphins
+37,Ereck Flowers77,OT,26,"6' 6""",330 lbs,6,Miami (FL),Dolphins
+38,Jonathan Hubbard70,OT,--,"6' 4""",292 lbs,R,Northwestern (IA),Dolphins
+39,Austin Jackson73,OT,20,"6' 6""",310 lbs,R,USC,Dolphins
+40,Nick Kaltmayer,OT,22,"6' 8""",311 lbs,R,Kansas State,Dolphins
+41,Adam Pankey78,OT,26,"6' 5""",313 lbs,3,West Virginia,Dolphins
+0,Brian Hoyer2,QB,34,"6' 2""",216 lbs,12,Michigan State,Patriots
+1,Brian Lewerke,QB,--,"6' 3""",216 lbs,R,Michigan State,Patriots
+2,J'Mar Smith8,QB,--,"6' 1""",218 lbs,R,Louisiana Tech,Patriots
+3,Jarrett Stidham4,QB,23,"6' 3""",215 lbs,2,Auburn,Patriots
+4,Brandon Bolden38,RB,30,"5' 11""",220 lbs,9,Ole Miss,Patriots
+5,Rex Burkhead34,RB,29,"5' 10""",215 lbs,8,Nebraska,Patriots
+6,Damien Harris37,RB,23,"5' 11""",213 lbs,2,Alabama,Patriots
+7,Sony Michel26,RB,25,"5' 11""",215 lbs,3,Georgia,Patriots
+8,James White28,RB,28,"5' 10""",205 lbs,7,Wisconsin,Patriots
+9,Jakob Johnson47,FB,25,"6' 3""",255 lbs,2,Tennessee,Patriots
+10,Danny Vitale45,FB,26,"6' 0""",239 lbs,5,Northwestern,Patriots
+11,Quincy Adeboyejo10,WR,24,"6' 3""",200 lbs,2,Ole Miss,Patriots
+12,Damiere Byrd14,WR,27,"5' 9""",180 lbs,5,South Carolina,Patriots
+13,Julian Edelman11,WR,33,"5' 10""",198 lbs,12,Kent State,Patriots
+14,N'Keal Harry15,WR,22,"6' 4""",225 lbs,2,Arizona State,Patriots
+15,Will Hastings33,WR,--,"5' 10""",174 lbs,R,Auburn,Patriots
+16,Marqise Lee11,WR,28,"6' 0""",196 lbs,7,USC,Patriots
+17,Jakobi Meyers16,WR,23,"6' 2""",200 lbs,2,North Carolina State,Patriots
+18,Gunner Olszewski80,WR,23,"6' 0""",190 lbs,2,Bemidji State,Patriots
+19,Sean Riley1,WR,--,"5' 8""",178 lbs,R,Syracuse,Patriots
+20,Devin Ross17,WR,24,"5' 9""",192 lbs,1,Colorado,Patriots
+21,Mohamed Sanu Sr.14,WR,30,"6' 2""",210 lbs,9,Rutgers,Patriots
+22,Matthew Slater18,WR,34,"6' 0""",205 lbs,13,UCLA,Patriots
+23,Jeff Thomas,WR,--,"5' 10""",170 lbs,R,Miami (FL),Patriots
+24,Devin Asiasi86,TE,22,"6' 3""",260 lbs,R,UCLA,Patriots
+25,Jake Burt,TE,--,"6' 3""",260 lbs,R,Boston College,Patriots
+26,Ryan Izzo85,TE,24,"6' 5""",255 lbs,3,Florida State,Patriots
+27,Dalton Keene29,TE,21,"6' 4""",251 lbs,R,Virginia Tech,Patriots
+28,Matt LaCosse83,TE,27,"6' 6""",255 lbs,5,Illinois,Patriots
+29,David Andrews60,C,27,"6' 3""",300 lbs,6,Georgia,Patriots
+30,Dustin Woodard53,C,--,"6' 2""",285 lbs,R,Memphis,Patriots
+31,Jermaine Eluemunor65,G,25,"6' 4""",335 lbs,4,Texas A&M,Patriots
+32,Hjalte Froholdt64,G,23,"6' 5""",310 lbs,2,Arkansas,Patriots
+33,Shaq Mason69,G,26,"6' 1""",310 lbs,6,Georgia Tech,Patriots
+34,Michael Onwenu50,G,22,"6' 3""",350 lbs,R,Michigan,Patriots
+35,Joe Thuney62,G,27,"6' 5""",308 lbs,5,North Carolina State,Patriots
+36,Najee Toran68,G,24,"6' 2""",305 lbs,1,UCLA,Patriots
+37,Yodny Cajuste63,OT,24,"6' 5""",310 lbs,1,West Virginia,Patriots
+38,Marcus Cannon61,OT,31,"6' 6""",335 lbs,10,TCU,Patriots
+39,Korey Cunningham74,OT,24,"6' 6""",311 lbs,3,Cincinnati,Patriots
+40,Justin Herron75,OT,24,"6' 5""",290 lbs,R,Wake Forest,Patriots
+41,Isaiah Wynn76,OT,24,"6' 2""",310 lbs,3,Georgia,Patriots
+0,Sam Darnold14,QB,22,"6' 3""",225 lbs,3,USC,Jets
+1,David Fales3,QB,29,"6' 2""",213 lbs,6,San Jose State,Jets
+2,James Morgan12,QB,23,"6' 4""",213 lbs,R,Florida International,Jets
+3,Mike White5,QB,25,"6' 5""",218 lbs,2,Western Kentucky,Jets
+4,Josh Adams36,RB,23,"6' 2""",225 lbs,3,Notre Dame,Jets
+5,Le'Veon Bell26,RB,28,"6' 1""",225 lbs,7,Michigan State,Jets
+6,Trenton Cannon25,RB,25,"5' 11""",185 lbs,3,Virginia State,Jets
+7,Kenneth Dixon38,RB,26,"5' 10""",228 lbs,4,Louisiana Tech,Jets
+8,Jalin Moore30,RB,24,"5' 10""",211 lbs,1,Appalachian State,Jets
+9,La'Mical Perine2,RB,22,"5' 11""",211 lbs,R,Florida,Jets
+10,Josh Bellamy15,WR,30,"6' 0""",208 lbs,6,Louisville,Jets
+11,Braxton Berrios10,WR,24,"5' 9""",190 lbs,3,Miami (FL),Jets
+12,Lawrence Cager,WR,--,"6' 5""",220 lbs,R,Georgia,Jets
+13,George Campbell,WR,--,"6' 4""",183 lbs,R,West Virginia,Jets
+14,Jehu Chesson16,WR,26,"6' 2""",204 lbs,3,Michigan,Jets
+15,Jamison Crowder82,WR,26,"5' 9""",177 lbs,6,Duke,Jets
+16,Josh Doctson13,WR,27,"6' 2""",205 lbs,5,TCU,Jets
+17,Quincy Enunwa81,WR,27,"6' 2""",225 lbs,6,Nebraska,Jets
+18,Keon Hatcher14,WR,25,"6' 1""",215 lbs,2,Arkansas,Jets
+19,Josh Malone83,WR,24,"6' 3""",205 lbs,3,Tennessee,Jets
+20,Denzel Mims5,WR,22,"6' 3""",206 lbs,R,Baylor,Jets
+21,Breshad Perriman19,WR,26,"6' 2""",215 lbs,6,UCF,Jets
+22,Jeff Smith16,WR,23,"6' 1""",195 lbs,1,Boston College,Jets
+23,Vyncint Smith17,WR,23,"6' 3""",202 lbs,3,Limestone,Jets
+24,Daniel Brown87,TE,27,"6' 5""",247 lbs,6,James Madison,Jets
+25,Ryan Griffin84,TE,30,"6' 6""",255 lbs,8,Connecticut,Jets
+26,Chris Herndon89,TE,24,"6' 4""",253 lbs,3,Miami (FL),Jets
+27,Ross Travis43,TE,27,"6' 6""",248 lbs,4,Penn State,Jets
+28,Trevon Wesco85,TE,24,"6' 3""",267 lbs,2,West Virginia,Jets
+29,Josh Andrews63,C,28,"6' 2""",298 lbs,5,Oregon State,Jets
+30,Jonotthan Harrison78,C,28,"6' 4""",300 lbs,7,Florida,Jets
+31,Leo Koloamatangi63,C,25,"6' 5""",305 lbs,2,Hawai'i',Jets
+32,Brad Lundblade64,C,24,"6' 3""",305 lbs,1,Oklahoma State,Jets
+33,Connor McGovern60,C,27,"6' 4""",306 lbs,5,Missouri,Jets
+34,James Murray61,C,24,"6' 5""",304 lbs,2,Holy Cross,Jets
+35,Ben Braden70,G,26,"6' 6""",329 lbs,2,Michigan,Jets
+36,Alex Lewis71,G,28,"6' 6""",305 lbs,5,Nebraska,Jets
+37,Greg Van Roten73,G,30,"6' 3""",305 lbs,6,Pennsylvania,Jets
+38,Brian Winters67,G,28,"6' 4""",320 lbs,8,Kent State,Jets
+39,Mekhi Becton73,OT,21,"6' 7""",369 lbs,R,Louisville,Jets
+40,Cameron Clark71,OT,22,"6' 5""",294 lbs,R,Charlotte,Jets
+41,Chuma Edoga75,OT,22,"6' 3""",308 lbs,2,USC,Jets
+42,George Fant74,OT,27,"6' 5""",322 lbs,5,Western Kentucky,Jets
+43,Jared Hilbers,OT,--,"6' 7""",316 lbs,R,Washington,Jets
+44,Corbin Kaufusi65,OT,27,"6' 9""",275 lbs,1,BYU,Jets
+45,Conor McDermott69,OT,27,"6' 8""",305 lbs,4,UCLA,Jets
+0,Robert Griffin III3,QB,30,"6' 2""",213 lbs,8,Baylor,Ravens
+1,Tyler Huntley1,QB,22,"6' 1""",205 lbs,R,Utah,Ravens
+2,Lamar Jackson8,QB,23,"6' 2""",212 lbs,3,Louisville,Ravens
+3,Trace McSorley7,QB,24,"6' 0""",202 lbs,2,Penn State,Ravens
+4,J.K. Dobbins2,RB,21,"5' 10""",217 lbs,R,Ohio State,Ravens
+5,Gus Edwards35,RB,25,"6' 1""",238 lbs,3,Rutgers,Ravens
+6,Justice Hill43,RB,22,"5' 10""",200 lbs,2,Oklahoma State,Ravens
+7,Mark Ingram II21,RB,30,"5' 9""",210 lbs,10,Alabama,Ravens
+8,Bronson Rechsteiner,RB,22,"6' 0""",230 lbs,R,Kennesaw State,Ravens
+9,Ty'Son Williams,RB,--,"6' 0""",220 lbs,R,BYU,Ravens
+10,Patrick Ricard42,FB,25,"6' 3""",303 lbs,4,Maine,Ravens
+11,Miles Boykin80,WR,23,"6' 4""",220 lbs,2,Notre Dame,Ravens
+12,Marquise Brown15,WR,22,"5' 9""",170 lbs,2,Oklahoma,Ravens
+13,Michael Dereus,WR,--,"6' 1""",210 lbs,R,Georgetown,Ravens
+14,Devin Duvernay6,WR,22,"5' 11""",202 lbs,R,Texas,Ravens
+15,Sean Modster14,WR,24,"5' 11""",183 lbs,1,Boise State,Ravens
+16,Chris Moore10,WR,26,"6' 1""",200 lbs,5,Cincinnati,Ravens
+17,Jaylon Moore,WR,--,"6' 2""",190 lbs,R,Tennessee-Martin,Ravens
+18,James Proche00,WR,23,"5' 11""",193 lbs,R,SMU,Ravens
+19,Jaleel Scott12,WR,25,"6' 5""",210 lbs,3,New Mexico State,Ravens
+20,Willie Snead IV83,WR,27,"5' 11""",200 lbs,6,Ball State,Ravens
+21,De'Anthony Thomas16,WR,27,"5' 8""",176 lbs,7,Oregon,Ravens
+22,Antoine Wesley84,WR,22,"6' 4""",206 lbs,1,Texas Tech,Ravens
+23,Mark Andrews89,TE,24,"6' 4""",256 lbs,3,Oklahoma,Ravens
+24,Nick Boyle86,TE,27,"6' 4""",270 lbs,6,Delaware,Ravens
+25,Jacob Breeland27,TE,--,"6' 5""",250 lbs,R,Oregon,Ravens
+26,Charles Scarff85,TE,23,"6' 5""",249 lbs,1,Delaware,Ravens
+27,Eli Wolf17,TE,--,"6' 4""",236 lbs,R,Georgia,Ravens
+28,Trystan Colon-Castillo55,C,22,"6' 4""",315 lbs,R,Missouri,Ravens
+29,Sean Pollard,C,--,"6' 5""",310 lbs,R,Clemson,Ravens
+30,Matt Skura68,C,27,"6' 3""",313 lbs,4,Duke,Ravens
+31,Evan Adams63,G,--,"6' 6""",352 lbs,R,Syracuse,Ravens
+32,Bradley Bozeman77,G,25,"6' 3""",317 lbs,3,Alabama,Ravens
+33,Ben Bredeson74,G,22,"6' 5""",316 lbs,R,Michigan,Ravens
+34,Daishawn Dixon,G,--,"6' 5""",330 lbs,R,San Diego State,Ravens
+35,D.J. Fluker78,G,29,"6' 5""",342 lbs,8,Alabama,Ravens
+36,Will Holden66,G,26,"6' 7""",330 lbs,2,Vanderbilt,Ravens
+37,Patrick Mekari65,G,22,"6' 4""",308 lbs,2,California,Ravens
+38,Ben Powers72,G,23,"6' 4""",310 lbs,2,Oklahoma,Ravens
+39,R.J. Prince61,G,25,"6' 6""",320 lbs,1,North Carolina,Ravens
+40,Orlando Brown Jr.78,OT,24,"6' 8""",355 lbs,3,Oklahoma,Ravens
+41,Tyre Phillips78,OT,23,"6' 5""",345 lbs,R,Mississippi State,Ravens
+42,Andre Smith76,OT,33,"6' 4""",325 lbs,12,Alabama,Ravens
+43,Ronnie Stanley79,OT,26,"6' 6""",315 lbs,5,Notre Dame,Ravens
+0,Joe Burrow9,QB,23,"6' 4""",216 lbs,R,LSU,Bengals
+1,Jake Dolegala7,QB,23,"6' 7""",242 lbs,2,Central Connecticut State,Bengals
+2,Ryan Finley5,QB,25,"6' 4""",207 lbs,2,North Carolina State,Bengals
+3,Rodney Anderson33,RB,23,"6' 0""",224 lbs,2,Oklahoma,Bengals
+4,Giovani Bernard25,RB,28,"5' 9""",205 lbs,8,North Carolina,Bengals
+5,Joe Mixon28,RB,23,"6' 1""",220 lbs,4,Oklahoma,Bengals
+6,Jacques Patrick313,RB,23,"6' 3""",234 lbs,1,Florida State,Bengals
+7,Samaje Perine,RB,24,"5' 11""",240 lbs,4,Oklahoma,Bengals
+8,Devwah Whaley35,RB,22,"5' 10""",211 lbs,R,Arkansas,Bengals
+9,Trayveon Williams32,RB,22,"5' 8""",206 lbs,2,Texas A&M,Bengals
+10,Tyler Boyd83,WR,25,"6' 2""",203 lbs,5,Pittsburgh,Bengals
+11,Alex Erickson12,WR,27,"6' 0""",195 lbs,5,Wisconsin,Bengals
+12,A.J. Green18,WR,31,"6' 4""",210 lbs,10,Georgia,Bengals
+13,Tee Higgins85,WR,21,"6' 4""",215 lbs,R,Clemson,Bengals
+14,Trenton Irwin16,WR,24,"6' 1""",200 lbs,1,Stanford,Bengals
+15,DaMarkus Lodge18,WR,22,"6' 2""",194 lbs,1,Ole Miss,Bengals
+16,Stanley Morgan17,WR,23,"6' 0""",205 lbs,2,Nebraska,Bengals
+17,John Ross III11,WR,24,"5' 11""",194 lbs,4,Washington,Bengals
+18,Auden Tate19,WR,23,"6' 5""",228 lbs,3,Florida State,Bengals
+19,Mike Thomas80,WR,25,"6' 1""",189 lbs,5,Southern Miss,Bengals
+20,Scotty Washington8,WR,22,"6' 5""",225 lbs,R,Wake Forest,Bengals
+21,Damion Willis15,WR,22,"6' 3""",204 lbs,2,Troy,Bengals
+22,Moritz Bohringer49,TE,26,"6' 5""",250 lbs,1,--,Bengals
+23,Cethan Carter82,TE,24,"6' 3""",248 lbs,4,Nebraska,Bengals
+24,Jordan Franks88,TE,24,"6' 4""",240 lbs,2,UCF,Bengals
+25,Drew Sample89,TE,24,"6' 5""",258 lbs,2,Washington,Bengals
+26,Mason Schreck86,TE,26,"6' 5""",252 lbs,3,Buffalo,Bengals
+27,C.J. Uzomah87,TE,27,"6' 6""",260 lbs,6,Auburn,Bengals
+28,Mitchell Wilcox84,TE,23,"6' 5""",245 lbs,R,South Florida,Bengals
+29,Billy Price53,C,25,"6' 4""",310 lbs,3,Ohio State,Bengals
+30,Hakeem Adeniji77,G,22,"6' 4""",302 lbs,R,Kansas,Bengals
+31,Trey Hopkins66,G,27,"6' 3""",316 lbs,5,Texas,Bengals
+32,Fred Johnson74,G,22,"6' 7""",326 lbs,2,Florida,Bengals
+33,Michael Jordan60,G,22,"6' 6""",315 lbs,2,Ohio State,Bengals
+34,Alex Redmond62,G,25,"6' 5""",320 lbs,4,UCLA,Bengals
+35,Xavier Su'a-Filo76,G,29,"6' 4""",312 lbs,7,UCLA,Bengals
+36,Clay Cordasco,OT,--,"6' 5""",314 lbs,R,Oregon State,Bengals
+37,O'Shea Dugas70,OT,23,"6' 4""",335 lbs,2,Louisiana Tech,Bengals
+38,Bobby Hart68,OT,25,"6' 5""",310 lbs,6,Florida State,Bengals
+39,Josh Knipfel,OT,--,"6' 5""",305 lbs,R,Iowa State,Bengals
+40,Isaiah Prince71,OT,22,"6' 7""",305 lbs,2,Ohio State,Bengals
+41,Jonah Williams73,OT,22,"6' 5""",305 lbs,2,Alabama,Bengals
+0,Kevin Davidson10,QB,--,"6' 4""",225 lbs,R,Princeton,Browns
+1,Garrett Gilbert3,QB,28,"6' 4""",230 lbs,3,SMU,Browns
+2,Case Keenum8,QB,32,"6' 1""",215 lbs,8,Houston,Browns
+3,Baker Mayfield6,QB,25,"6' 1""",215 lbs,3,Oklahoma,Browns
+4,Nick Chubb24,RB,24,"5' 11""",227 lbs,3,Georgia,Browns
+5,Brian Herrien,RB,--,"6' 0""",210 lbs,R,Georgia,Browns
+6,Dontrell Hilliard25,RB,25,"5' 11""",202 lbs,3,Tulane,Browns
+7,Kareem Hunt27,RB,24,"5' 11""",216 lbs,4,Toledo,Browns
+8,D'Ernest Johnson30,RB,24,"5' 10""",208 lbs,2,South Florida,Browns
+9,Benny LeMay,RB,--,"5' 9""",215 lbs,R,Charlotte,Browns
+10,Andy Janovich32,FB,26,"6' 1""",238 lbs,5,Nebraska,Browns
+11,Johnny Stanton40,FB,25,"6' 2""",250 lbs,2,UNLV,Browns
+12,Odell Beckham Jr.13,WR,27,"5' 11""",198 lbs,7,LSU,Browns
+13,Ja'Marcus Bradley,WR,--,"6' 1""",195 lbs,R,Louisiana-Lafayette,Browns
+14,Tony Brown,WR,--,"6' 1""",195 lbs,R,Colorado,Browns
+15,KhaDarel Hodge12,WR,25,"6' 2""",205 lbs,3,Prairie View A&M,Browns
+16,Jarvis Landry80,WR,27,"5' 11""",196 lbs,7,LSU,Browns
+17,D.J. Montgomery15,WR,23,"6' 1""",201 lbs,2,Austin Peay,Browns
+18,J'Mon Moore16,WR,24,"6' 3""",205 lbs,2,Missouri,Browns
+19,JoJo Natson19,WR,26,"5' 7""",153 lbs,4,Akron,Browns
+20,Donovan Peoples-Jones9,WR,21,"6' 2""",208 lbs,R,Michigan,Browns
+21,Damion Ratley18,WR,25,"6' 2""",200 lbs,3,Texas A&M,Browns
+22,Taywan Taylor10,WR,25,"5' 11""",205 lbs,4,Western Kentucky,Browns
+23,Pharaoh Brown86,TE,25,"6' 6""",258 lbs,3,Oregon,Browns
+24,Harrison Bryant40,TE,22,"6' 5""",240 lbs,R,Florida Atlantic,Browns
+25,Stephen Carlson89,TE,23,"6' 4""",240 lbs,2,Princeton,Browns
+26,Austin Hooper81,TE,25,"6' 4""",254 lbs,5,Stanford,Browns
+27,David Njoku85,TE,23,"6' 4""",246 lbs,4,Miami (FL),Browns
+28,Nate Wieting,TE,--,"6' 4""",250 lbs,R,Iowa,Browns
+29,Evan Brown68,C,23,"6' 2""",302 lbs,2,SMU,Browns
+30,Nick Harris56,C,21,"6' 1""",293 lbs,R,Washington,Browns
+31,JC Tretter64,C,29,"6' 4""",307 lbs,8,Cornell,Browns
+32,Willie Wright66,C,24,"6' 3""",300 lbs,1,Tulsa,Browns
+33,Joel Bitonio75,G,28,"6' 4""",320 lbs,7,Nevada,Browns
+34,Drew Forbes79,G,23,"6' 5""",308 lbs,2,Southeast Missouri State,Browns
+35,Colby Gossett71,G,24,"6' 5""",331 lbs,2,Appalachian State,Browns
+36,Malcolm Pridgeon62,G,25,"6' 7""",310 lbs,1,Ohio State,Browns
+37,Wyatt Teller77,G,25,"6' 4""",315 lbs,3,Virginia Tech,Browns
+38,Jack Conklin78,OT,25,"6' 6""",308 lbs,5,Michigan State,Browns
+39,Drake Dorbeck,OT,--,"6' 6""",320 lbs,R,Southern Miss,Browns
+40,Chris Hubbard74,OT,29,"6' 4""",295 lbs,7,UAB,Browns
+41,Kendall Lamm70,OT,27,"6' 5""",310 lbs,6,Appalachian State,Browns
+42,Alex Taylor,OT,--,"6' 9""",310 lbs,R,South Carolina State,Browns
+43,Jedrick Wills Jr.74,OT,20,"6' 5""",320 lbs,R,Alabama,Browns
+0,J.T. Barrett16,QB,25,"6' 2""",225 lbs,1,Ohio State,Steelers
+1,Devlin Hodges6,QB,24,"6' 1""",210 lbs,2,Samford,Steelers
+2,Paxton Lynch5,QB,26,"6' 7""",244 lbs,4,Memphis,Steelers
+3,Ben Roethlisberger7,QB,38,"6' 5""",240 lbs,17,Miami (OH),Steelers
+4,Mason Rudolph2,QB,24,"6' 5""",235 lbs,3,Oklahoma State,Steelers
+5,James Conner30,RB,24,"6' 1""",233 lbs,4,Pittsburgh,Steelers
+6,Trey Edmunds33,RB,25,"6' 2""",223 lbs,3,Maryland,Steelers
+7,Darrin Hall42,RB,23,"6' 0""",225 lbs,R,Pittsburgh,Steelers
+8,Anthony McFarland Jr.5,RB,21,"5' 9""",198 lbs,R,Maryland,Steelers
+9,Jaylen Samuels38,RB,23,"6' 0""",225 lbs,3,North Carolina State,Steelers
+10,Benny Snell Jr.24,RB,22,"5' 10""",224 lbs,2,Kentucky,Steelers
+11,Ralph Webb42,RB,25,"5' 10""",200 lbs,1,Vanderbilt,Steelers
+12,Kerrith Whyte40,RB,23,"5' 10""",204 lbs,2,Florida Atlantic,Steelers
+13,Spencer Nigh99,FB,--,"6' 0""",267 lbs,R,Auburn,Steelers
+14,Derek Watt34,FB,27,"6' 2""",234 lbs,5,Wisconsin,Steelers
+15,Saeed Blacknall80,WR,24,"6' 2""",208 lbs,1,Penn State,Steelers
+16,Deon Cain17,WR,23,"6' 2""",202 lbs,3,Clemson,Steelers
+17,Chase Claypool83,WR,21,"6' 4""",229 lbs,R,Notre Dame,Steelers
+18,Jamal Custis14,WR,24,"6' 5""",213 lbs,R,Syracuse,Steelers
+19,Amara Darboh82,WR,26,"6' 2""",215 lbs,3,Michigan,Steelers
+20,Quadree Henderson15,WR,23,"5' 8""",192 lbs,2,Pittsburgh,Steelers
+21,Anthony Johnson81,WR,25,"6' 2""",220 lbs,1,Buffalo,Steelers
+22,Diontae Johnson18,WR,23,"5' 10""",183 lbs,2,Toledo,Steelers
+23,JuJu Smith-Schuster19,WR,23,"6' 1""",215 lbs,4,USC,Steelers
+24,Ryan Switzer10,WR,25,"5' 8""",185 lbs,4,North Carolina,Steelers
+25,James Washington13,WR,24,"5' 11""",213 lbs,3,Oklahoma State,Steelers
+26,Eric Ebron85,TE,27,"6' 4""",253 lbs,7,North Carolina,Steelers
+27,Zach Gentry81,TE,23,"6' 8""",265 lbs,2,Michigan,Steelers
+28,Vance McDonald89,TE,29,"6' 4""",267 lbs,8,Rice,Steelers
+29,Kevin Rader87,TE,25,"6' 4""",250 lbs,1,Youngstown State,Steelers
+30,Christian Scotland-Williamson49,TE,26,"6' 9""",274 lbs,1,--,Steelers
+31,J.C. Hassenauer60,C,25,"6' 2""",295 lbs,1,Alabama,Steelers
+32,John Keenoy52,C,23,"6' 3""",300 lbs,1,Western Michigan,Steelers
+33,Maurkice Pouncey53,C,30,"6' 4""",304 lbs,11,Florida,Steelers
+34,David DeCastro66,G,30,"6' 5""",316 lbs,9,Stanford,Steelers
+35,Kevin Dotson75,G,23,"6' 4""",310 lbs,R,Louisiana-Lafayette,Steelers
+36,Christian Montano58,G,--,"6' 4""",300 lbs,R,Tulane,Steelers
+37,Stefen Wisniewski61,G,31,"6' 3""",305 lbs,10,Penn State,Steelers
+38,Zach Banner72,OT,26,"6' 8""",360 lbs,4,USC,Steelers
+39,Anthony Coyle78,OT,23,"6' 4""",298 lbs,1,Fordham,Steelers
+40,Christian DiLauro74,OT,25,"6' 6""",300 lbs,1,Illinois,Steelers
+41,Matt Feiler71,OT,27,"6' 6""",330 lbs,4,Bloomsburg,Steelers
+42,Derwin Gray77,OT,24,"6' 4""",320 lbs,1,Maryland,Steelers
+43,Jarron Jones72,OT,26,"6' 6""",320 lbs,1,Notre Dame,Steelers
+44,Chukwuma Okorafor76,OT,22,"6' 6""",320 lbs,3,Western Michigan,Steelers
+45,Alejandro Villanueva78,OT,31,"6' 9""",320 lbs,6,Army,Steelers
+0,AJ McCarron2,QB,29,"6' 3""",215 lbs,6,Alabama,Texans
+1,Alex McGough3,QB,24,"6' 3""",214 lbs,1,Florida International,Texans
+2,Nick Tiano,QB,--,"6' 5""",240 lbs,R,Chattanooga,Texans
+3,Deshaun Watson4,QB,24,"6' 2""",215 lbs,4,Clemson,Texans
+4,Karan Higdon31,RB,23,"5' 10""",202 lbs,1,Michigan,Texans
+5,Buddy Howell38,RB,24,"6' 1""",218 lbs,3,Florida Atlantic,Texans
+6,David Johnson31,RB,28,"6' 1""",224 lbs,6,Northern Iowa,Texans
+7,Duke Johnson25,RB,26,"5' 9""",210 lbs,6,Miami (FL),Texans
+8,Scottie Phillips22,RB,--,"5' 8""",211 lbs,R,Ole Miss,Texans
+9,Cullen Gillaspia44,FB,24,"6' 2""",235 lbs,2,Texas A&M,Texans
+10,DeAndre Carter14,WR,27,"5' 8""",190 lbs,3,Sacramento State,Texans
+11,Randall Cobb18,WR,29,"5' 10""",195 lbs,10,Kentucky,Texans
+12,Brandin Cooks12,WR,26,"5' 10""",183 lbs,6,Oregon State,Texans
+13,Isaiah Coulter8,WR,21,"6' 3""",190 lbs,R,Rhode Island,Texans
+14,Keke Coutee16,WR,23,"5' 11""",187 lbs,3,Texas Tech,Texans
+15,Will Fuller V15,WR,26,"6' 0""",184 lbs,5,Notre Dame,Texans
+16,Chad Hansen13,WR,25,"6' 2""",202 lbs,2,California,Texans
+17,Steven Mitchell Jr.11,WR,26,"5' 10""",186 lbs,2,USC,Texans
+18,Tyler Simmons,WR,--,"6' 0""",201 lbs,R,Georgia,Texans
+19,Kenny Stills12,WR,28,"6' 1""",202 lbs,8,Oklahoma,Texans
+20,Isaac Whitney19,WR,25,"6' 2""",204 lbs,2,USC,Texans
+21,Jordan Akins88,TE,28,"6' 4""",243 lbs,3,UCF,Texans
+22,Darren Fells87,TE,34,"6' 7""",270 lbs,7,UC Irvine,Texans
+23,Dylan Stapleton,TE,--,"6' 5""",242 lbs,R,James Madison,Texans
+24,Jordan Thomas83,TE,23,"6' 5""",277 lbs,3,Mississippi State,Texans
+25,Kahale Warring81,TE,23,"6' 5""",250 lbs,2,San Diego State,Texans
+26,Greg Mancz65,C,28,"6' 4""",302 lbs,6,Toledo,Texans
+27,Nick Martin66,C,27,"6' 4""",295 lbs,5,Notre Dame,Texans
+28,Zach Fulton73,G,28,"6' 5""",321 lbs,7,Tennessee,Texans
+29,Cordel Iwuagwu70,G,--,"6' 3""",311 lbs,R,TCU,Texans
+30,Senio Kelemete64,G,29,"6' 3""",301 lbs,8,Washington,Texans
+31,Elex Woodworth,G,--,"6' 4""",296 lbs,R,North Texas,Texans
+32,Charlie Heck67,OT,23,"6' 8""",315 lbs,R,North Carolina,Texans
+33,Tytus Howard71,OT,23,"6' 5""",322 lbs,2,Alabama State,Texans
+34,Roderick Johnson63,OT,24,"6' 6""",306 lbs,4,Florida State,Texans
+35,Rick Leonard72,OT,23,"6' 7""",311 lbs,1,Florida State,Texans
+36,Kyle Murphy68,OT,26,"6' 6""",305 lbs,4,Stanford,Texans
+37,Elijah Nkansah75,OT,25,"6' 5""",315 lbs,1,Toledo,Texans
+38,Brent Qvale79,OT,29,"6' 7""",315 lbs,6,Nebraska,Texans
+39,Max Scharping74,OT,23,"6' 6""",327 lbs,2,Northern Illinois,Texans
+40,David Steinmetz79,OT,25,"6' 8""",321 lbs,2,Purdue,Texans
+41,Laremy Tunsil78,OT,25,"6' 5""",313 lbs,5,Ole Miss,Texans
+0,Jacoby Brissett7,QB,27,"6' 4""",238 lbs,5,North Carolina State,Colts
+1,Jacob Eason9,QB,22,"6' 6""",227 lbs,R,Washington,Colts
+2,Chad Kelly6,QB,26,"6' 2""",216 lbs,3,Ole Miss,Colts
+3,Philip Rivers17,QB,38,"6' 5""",228 lbs,17,North Carolina State,Colts
+4,Bruce Anderson35,RB,22,"5' 11""",208 lbs,1,North Dakota State,Colts
+5,Nyheim Hines21,RB,23,"5' 9""",196 lbs,3,North Carolina State,Colts
+6,Darius Jackson41,RB,26,"6' 0""",230 lbs,4,Eastern Michigan,Colts
+7,Marlon Mack25,RB,24,"6' 0""",210 lbs,4,South Florida,Colts
+8,Jonathan Taylor28,RB,21,"5' 11""",219 lbs,R,Wisconsin,Colts
+9,Jordan Wilkins20,RB,25,"6' 1""",216 lbs,3,Ole Miss,Colts
+10,Roosevelt Nix33,FB,28,"5' 11""",248 lbs,7,Kent State,Colts
+11,Rodney Adams2,WR,25,"6' 1""",189 lbs,1,South Florida,Colts
+12,Parris Campbell15,WR,22,"6' 0""",208 lbs,2,Ohio State,Colts
+13,Ashton Dulin16,WR,22,"6' 1""",215 lbs,2,Malone University,Colts
+14,Daurice Fountain10,WR,24,"6' 2""",210 lbs,2,Northern Iowa,Colts
+15,De'Michael Harris5,WR,--,"5' 9""",175 lbs,R,Southern Miss,Colts
+16,Malik Henry9,WR,23,"6' 0""",190 lbs,1,West Georgia,Colts
+17,T.Y. Hilton13,WR,30,"5' 10""",183 lbs,9,Florida International,Colts
+18,Marcus Johnson83,WR,25,"6' 1""",207 lbs,4,Texas,Colts
+19,Zach Pascal14,WR,25,"6' 2""",214 lbs,3,Old Dominion,Colts
+20,Dezmon Patmon85,WR,21,"6' 4""",228 lbs,R,Washington State,Colts
+21,Michael Pittman Jr.86,WR,22,"6' 4""",220 lbs,R,USC,Colts
+22,Artavis Scott1,WR,25,"5' 11""",195 lbs,2,Clemson,Colts
+23,Chad Williams11,WR,25,"6' 2""",204 lbs,3,Grambling State,Colts
+24,Mo Alie-Cox81,TE,26,"6' 5""",267 lbs,3,Virginia Commonwealth,Colts
+25,Ian Bunting48,TE,24,"6' 7""",255 lbs,1,California,Colts
+26,Trey Burton80,TE,28,"6' 2""",238 lbs,7,Florida,Colts
+27,Jack Doyle84,TE,29,"6' 6""",262 lbs,8,Western Kentucky,Colts
+28,Farrod Green41,TE,22,"6' 4""",245 lbs,R,Mississippi State,Colts
+29,Xavier Grimble85,TE,27,"6' 4""",261 lbs,4,USC,Colts
+30,Matt Lengel47,TE,29,"6' 7""",265 lbs,4,Eastern Kentucky,Colts
+31,Ryan Kelly78,C,26,"6' 4""",307 lbs,5,Alabama,Colts
+32,Javon Patterson65,C,22,"6' 3""",307 lbs,2,Ole Miss,Colts
+33,Jake Eldrenkamp60,G,26,"6' 5""",300 lbs,1,Washington,Colts
+34,Mark Glowinski64,G,27,"6' 4""",310 lbs,6,West Virginia,Colts
+35,Chaz Green69,G,28,"6' 5""",318 lbs,4,Florida,Colts
+36,Quenton Nelson56,G,24,"6' 5""",330 lbs,3,Notre Dame,Colts
+37,Danny Pinter63,G,23,"6' 4""",300 lbs,R,Ball State,Colts
+38,Braden Smith72,G,24,"6' 6""",315 lbs,3,Auburn,Colts
+39,Anthony Castonzo74,OT,31,"6' 7""",307 lbs,10,Boston College,Colts
+40,Le'Raven Clark62,OT,27,"6' 5""",311 lbs,5,Texas Tech,Colts
+41,Andrew Donnal76,OT,28,"6' 6""",305 lbs,6,Iowa,Colts
+42,Brandon Hitner75,OT,24,"6' 6""",300 lbs,1,Villanova,Colts
+43,Cedrick Lang68,OT,27,"6' 7""",300 lbs,2,UTEP,Colts
+44,Carter O'Donnell61,OT,21,"6' 5""",310 lbs,R,Alberta,Colts
+45,Travis Vornkahl67,OT,24,"6' 5""",287 lbs,1,West Texas A&M,Colts
+0,Joshua Dobbs11,QB,25,"6' 3""",216 lbs,4,Tennessee,Jaguars
+1,Jake Luton6,QB,24,"6' 7""",229 lbs,R,Oregon State,Jaguars
+2,Gardner Minshew II15,QB,23,"6' 1""",225 lbs,2,Washington State,Jaguars
+3,Ryquell Armstead23,RB,23,"5' 11""",220 lbs,2,Temple,Jaguars
+4,Nathan Cottrell31,RB,--,"5' 11""",193 lbs,R,Georgia Tech,Jaguars
+5,Tavien Feaster4,RB,22,"6' 0""",221 lbs,R,South Carolina,Jaguars
+6,Leonard Fournette27,RB,25,"6' 0""",228 lbs,4,LSU,Jaguars
+7,Jeremy McNichols34,RB,24,"5' 9""",205 lbs,1,Boise State,Jaguars
+8,Devine Ozigbo33,RB,23,"6' 2""",225 lbs,2,Nebraska,Jaguars
+9,James Robinson25,RB,21,"5' 10""",220 lbs,R,Illinois State,Jaguars
+10,Chris Thompson25,RB,29,"5' 8""",195 lbs,7,Florida State,Jaguars
+11,Connor Slomka43,FB,--,"6' 0""",240 lbs,R,Army,Jaguars
+12,C.J. Board16,WR,26,"6' 1""",181 lbs,2,Chattanooga,Jaguars
+13,DJ Chark Jr.17,WR,23,"6' 4""",198 lbs,3,LSU,Jaguars
+14,Keelan Cole84,WR,27,"6' 1""",194 lbs,4,Kentucky Wesleyan,Jaguars
+15,Chris Conley18,WR,27,"6' 3""",205 lbs,6,Georgia,Jaguars
+16,Terry Godwin14,WR,23,"5' 11""",168 lbs,1,Georgia,Jaguars
+17,Josh Hammond81,WR,--,"6' 0""",194 lbs,R,Florida,Jaguars
+18,Collin Johnson19,WR,22,"6' 6""",220 lbs,R,Texas,Jaguars
+19,Marvelle Ross83,WR,--,"5' 9""",180 lbs,R,Notre Dame of Ohio,Jaguars
+20,Laviska Shenault Jr.10,WR,21,"6' 2""",220 lbs,R,Colorado,Jaguars
+21,Michael Walker13,WR,23,"5' 11""",194 lbs,2,Boston College,Jaguars
+22,Dede Westbrook12,WR,26,"6' 0""",178 lbs,4,Oklahoma,Jaguars
+23,Tyler Davis87,TE,23,"6' 4""",250 lbs,R,Georgia Tech,Jaguars
+24,Tyler Eifert88,TE,29,"6' 6""",255 lbs,8,Notre Dame,Jaguars
+25,Ben Ellefson86,TE,--,"6' 3""",249 lbs,R,North Dakota State,Jaguars
+26,Charles Jones85,TE,23,"6' 4""",255 lbs,2,Tulane,Jaguars
+27,James O'Shaughnessy80,TE,28,"6' 4""",245 lbs,6,Illinois State,Jaguars
+28,Josh Oliver89,TE,23,"6' 5""",249 lbs,2,San Jose State,Jaguars
+29,Tyler Gauthier61,C,22,"6' 5""",300 lbs,1,Miami (FL),Jaguars
+30,Brandon Linder65,C,28,"6' 6""",315 lbs,7,Miami (FL),Jaguars
+31,Tyler Shatley69,C,28,"6' 3""",310 lbs,7,Clemson,Jaguars
+32,A.J. Cann60,G,28,"6' 3""",315 lbs,6,South Carolina,Jaguars
+33,Andrew Norwell68,G,28,"6' 6""",325 lbs,7,Ohio State,Jaguars
+34,Tre'Vour Wallace-Simms77,G,22,"6' 5""",330 lbs,R,Missouri,Jaguars
+35,Ben Bartch78,OT,21,"6' 6""",308 lbs,R,--,Jaguars
+36,Blake Hance72,OT,24,"6' 5""",310 lbs,1,Northwestern,Jaguars
+37,KC McDermott62,OT,24,"6' 5""",311 lbs,2,Miami (FL),Jaguars
+38,Steven Nielsen,OT,--,"6' 8""",307 lbs,R,Eastern Michigan,Jaguars
+39,Austen Pleasants64,OT,22,"6' 7""",328 lbs,R,Ohio,Jaguars
+40,Ryan Pope67,OT,23,"6' 7""",315 lbs,1,San Diego State,Jaguars
+41,Will Richardson Jr.76,OT,24,"6' 6""",306 lbs,3,North Carolina State,Jaguars
+42,Cam Robinson74,OT,24,"6' 6""",320 lbs,4,Alabama,Jaguars
+43,Jawaan Taylor75,OT,22,"6' 5""",312 lbs,2,Florida,Jaguars
+0,Cole McDonald13,QB,21,"6' 4""",220 lbs,R,Hawai'i',Titans
+1,Ryan Tannehill17,QB,31,"6' 4""",217 lbs,9,Texas A&M,Titans
+2,Logan Woodside5,QB,25,"6' 1""",213 lbs,1,Toledo,Titans
+3,Khari Blasingame41,RB,23,"6' 0""",233 lbs,2,Vanderbilt,Titans
+4,Dalyn Dawkins28,RB,25,"5' 7""",183 lbs,2,Colorado State,Titans
+5,Darrynton Evans3,RB,21,"5' 11""",200 lbs,R,Appalachian State,Titans
+6,Derrick Henry22,RB,26,"6' 3""",247 lbs,5,Alabama,Titans
+7,Senorise Perry,RB,28,"6' 0""",210 lbs,6,Louisville,Titans
+8,Cameron Scarlett,RB,--,"6' 1""",216 lbs,R,Stanford,Titans
+9,Shaun Wilson39,RB,24,"5' 9""",185 lbs,3,Duke,Titans
+10,Cameron Batson13,WR,24,"5' 8""",175 lbs,3,Texas Tech,Titans
+11,A.J. Brown11,WR,22,"6' 1""",226 lbs,2,Ole Miss,Titans
+12,Corey Davis84,WR,25,"6' 3""",209 lbs,4,Western Michigan,Titans
+13,Rashard Davis12,WR,24,"5' 9""",175 lbs,1,James Madison,Titans
+14,Cody Hollister16,WR,26,"6' 4""",209 lbs,2,Arkansas,Titans
+15,Adam Humphries10,WR,26,"5' 11""",195 lbs,6,Clemson,Titans
+16,Mason Kinsey1,WR,--,"6' 0""",195 lbs,R,Berry College,Titans
+17,Kalif Raymond14,WR,25,"5' 8""",182 lbs,4,Holy Cross,Titans
+18,Trevion Thompson87,WR,24,"6' 2""",200 lbs,1,Clemson,Titans
+19,Kristian Wilkerson,WR,--,"6' 1""",214 lbs,R,Southeast Missouri State,Titans
+20,Kyle Williams,WR,--,"5' 11""",192 lbs,R,Arizona State,Titans
+21,Anthony Firkser86,TE,25,"6' 2""",246 lbs,3,Harvard,Titans
+22,Cole Herdman88,TE,24,"6' 4""",245 lbs,1,Purdue,Titans
+23,Parker Hesse49,TE,24,"6' 3""",261 lbs,1,Iowa,Titans
+24,Tommy Hudson,TE,--,"6' 5""",255 lbs,R,Arizona State,Titans
+25,MyCole Pruitt85,TE,28,"6' 2""",245 lbs,5,Southern Illinois,Titans
+26,Jonnu Smith81,TE,24,"6' 3""",248 lbs,4,Florida International,Titans
+27,Aaron Brewer,C,--,"6' 3""",270 lbs,R,Texas State,Titans
+28,Ben Jones60,C,30,"6' 3""",308 lbs,9,Georgia,Titans
+29,Daniel Munyer52,C,28,"6' 1""",305 lbs,3,Colorado,Titans
+30,Nate Davis64,G,23,"6' 3""",316 lbs,2,Charlotte,Titans
+31,Jamil Douglas75,G,28,"6' 4""",309 lbs,3,Arizona State,Titans
+32,Avery Gennesy74,G,26,"6' 5""",318 lbs,1,Texas A&M,Titans
+33,Zac Kerin,G,28,"6' 4""",305 lbs,5,Toledo,Titans
+34,David Quessenberry72,G,29,"6' 5""",310 lbs,2,San Jose State,Titans
+35,Rodger Saffold III76,G,31,"6' 5""",325 lbs,11,Indiana,Titans
+36,Dennis Kelly71,OT,30,"6' 8""",321 lbs,9,Purdue,Titans
+37,Brandon Kemp,OT,--,"6' 6""",285 lbs,R,Valdosta State,Titans
+38,Taylor Lewan77,OT,28,"6' 7""",309 lbs,7,Michigan,Titans
+39,Anthony McKinney,OT,--,"6' 8""",314 lbs,R,TCU,Titans
+40,Ty Sambrailo74,OT,28,"6' 5""",311 lbs,6,Colorado State,Titans
+41,Isaiah Wilson79,OT,21,"6' 7""",340 lbs,R,Georgia,Titans
+0,Jeff Driskel9,QB,27,"6' 4""",235 lbs,5,Louisiana Tech,Broncos
+1,Drew Lock3,QB,23,"6' 4""",228 lbs,2,Missouri,Broncos
+2,Riley Neal6,QB,--,"6' 6""",225 lbs,R,Vanderbilt,Broncos
+3,Brett Rypien4,QB,23,"6' 2""",202 lbs,1,Boise State,Broncos
+4,LeVante Bellamy,RB,23,"5' 9""",190 lbs,R,Western Michigan,Broncos
+5,Jeremy Cox36,RB,23,"6' 0""",235 lbs,1,Old Dominion,Broncos
+6,Royce Freeman28,RB,24,"6' 0""",238 lbs,3,Oregon,Broncos
+7,Melvin Gordon25,RB,27,"6' 1""",215 lbs,6,Wisconsin,Broncos
+8,Phillip Lindsay30,RB,25,"5' 8""",190 lbs,3,Colorado,Broncos
+9,Khalfani Muhammad33,RB,25,"5' 7""",174 lbs,1,California,Broncos
+10,Trinity Benson12,WR,23,"6' 0""",180 lbs,1,East Central,Broncos
+11,Fred Brown19,WR,26,"6' 1""",195 lbs,2,Mississippi State,Broncos
+12,Tyrie Cleveland89,WR,22,"6' 2""",205 lbs,R,Florida,Broncos
+13,DaeSean Hamilton17,WR,25,"6' 1""",206 lbs,3,Penn State,Broncos
+14,KJ Hamler1,WR,20,"5' 9""",176 lbs,R,Penn State,Broncos
+15,Kendall Hinton,WR,23,"6' 0""",195 lbs,R,Wake Forest,Broncos
+16,Jerry Jeudy4,WR,21,"6' 1""",192 lbs,R,Alabama,Broncos
+17,Zimari Manning,WR,--,"6' 2""",200 lbs,R,Tarleton State,Broncos
+18,Kelvin McKnight16,WR,23,"5' 8""",186 lbs,1,Samford,Broncos
+19,Tim Patrick81,WR,26,"6' 4""",212 lbs,3,Utah,Broncos
+20,Diontae Spencer11,WR,28,"5' 8""",170 lbs,2,McNeese State,Broncos
+21,Courtland Sutton14,WR,24,"6' 4""",216 lbs,3,SMU,Broncos
+22,Juwann Winfree15,WR,23,"6' 3""",215 lbs,2,Colorado,Broncos
+23,Andrew Beck83,TE,23,"6' 3""",255 lbs,2,Texas,Broncos
+24,Jake Butt80,TE,24,"6' 6""",250 lbs,3,Michigan,Broncos
+25,Noah Fant87,TE,22,"6' 4""",249 lbs,2,Iowa,Broncos
+26,Austin Fort89,TE,24,"6' 4""",244 lbs,2,Wyoming,Broncos
+27,Troy Fumagalli84,TE,25,"6' 6""",248 lbs,3,Wisconsin,Broncos
+28,Jeff Heuerman82,TE,27,"6' 5""",255 lbs,6,Ohio State,Broncos
+29,Albert Okwuegbunam81,TE,22,"6' 5""",255 lbs,R,Missouri,Broncos
+30,Nick Vannett88,TE,27,"6' 6""",261 lbs,5,Ohio State,Broncos
+31,Lloyd Cushenberry III79,C,22,"6' 3""",315 lbs,R,LSU,Broncos
+32,Nico Falah74,C,25,"6' 4""",301 lbs,3,USC,Broncos
+33,Graham Glasgow61,C,27,"6' 6""",310 lbs,5,Michigan,Broncos
+34,Patrick Morris50,C,25,"6' 3""",300 lbs,2,TCU,Broncos
+35,Netane Muti52,G,21,"6' 3""",307 lbs,R,Fresno State,Broncos
+36,Austin Schlottmann71,G,24,"6' 6""",300 lbs,2,TCU,Broncos
+37,Calvin Anderson76,OT,24,"6' 5""",300 lbs,2,Texas,Broncos
+38,Quinn Bailey75,OT,24,"6' 6""",323 lbs,1,Arizona State,Broncos
+39,Garett Bolles72,OT,27,"6' 5""",300 lbs,4,Utah,Broncos
+40,Ja'Wuan James70,OT,27,"6' 6""",312 lbs,7,Tennessee,Broncos
+41,Tyler Jones63,OT,24,"6' 3""",306 lbs,1,North Carolina State,Broncos
+42,Dalton Risner66,OT,24,"6' 5""",312 lbs,2,Kansas State,Broncos
+43,Jake Rodgers69,OT,28,"6' 6""",320 lbs,2,Eastern Washington,Broncos
+44,Hunter Watts,OT,--,"6' 8""",320 lbs,R,Central Arkansas,Broncos
+45,Elijah Wilkinson68,OT,25,"6' 6""",329 lbs,4,Massachusetts,Broncos
+0,Chad Henne4,QB,34,"6' 3""",222 lbs,13,Michigan,Chiefs
+1,Patrick Mahomes15,QB,24,"6' 3""",230 lbs,4,Texas Tech,Chiefs
+2,Shea Patterson,QB,--,"6' 2""",202 lbs,R,Michigan,Chiefs
+3,Jordan Ta'amu8,QB,22,"6' 3""",214 lbs,1,Ole Miss,Chiefs
+4,Clyde Edwards-Helaire25,RB,21,"5' 8""",205 lbs,R,LSU,Chiefs
+5,Elijah McGuire30,RB,25,"5' 10""",214 lbs,3,Louisiana-Lafayette,Chiefs
+6,Darwin Thompson34,RB,23,"5' 8""",200 lbs,2,Utah State,Chiefs
+7,DeAndre Washington24,RB,27,"5' 8""",210 lbs,5,Texas Tech,Chiefs
+8,Mike Weber45,RB,22,"5' 10""",210 lbs,1,Ohio State,Chiefs
+9,Damien Williams26,RB,28,"5' 11""",224 lbs,7,Oklahoma,Chiefs
+10,Darrel Williams31,RB,25,"5' 11""",224 lbs,3,LSU,Chiefs
+11,John Lovett40,FB,24,"6' 3""",225 lbs,2,Princeton,Chiefs
+12,Anthony Sherman42,FB,31,"5' 10""",242 lbs,10,Connecticut,Chiefs
+13,Andre Baccellia,WR,--,"5' 10""",175 lbs,R,Washington,Chiefs
+14,Felton Davis III80,WR,23,"6' 3""",211 lbs,2,Michigan State,Chiefs
+15,Gehrig Dieter12,WR,27,"6' 3""",208 lbs,2,Alabama,Chiefs
+16,Maurice Ffrench,WR,22,"5' 11""",200 lbs,R,Pittsburgh,Chiefs
+17,Jody Fortson1,WR,24,"6' 6""",230 lbs,1,Valdosta State,Chiefs
+18,Mecole Hardman17,WR,22,"5' 10""",187 lbs,2,Georgia,Chiefs
+19,Aleva Hifo,WR,--,"5' 10""",187 lbs,R,BYU,Chiefs
+20,Tyreek Hill10,WR,26,"5' 10""",185 lbs,5,West Alabama,Chiefs
+21,Kalija Lipscomb,WR,22,"6' 0""",201 lbs,R,Vanderbilt,Chiefs
+22,Byron Pringle13,WR,26,"6' 1""",203 lbs,3,Kansas State,Chiefs
+23,Demarcus Robinson11,WR,25,"6' 1""",203 lbs,5,Florida,Chiefs
+24,Justice Shelton-Mosley,WR,--,"5' 10""",196 lbs,R,Vanderbilt,Chiefs
+25,Sammy Watkins14,WR,26,"6' 1""",211 lbs,7,Clemson,Chiefs
+26,Cody White,WR,21,"6' 3""",215 lbs,R,Michigan State,Chiefs
+27,Nick Keizer48,TE,25,"6' 4""",251 lbs,1,Grand Valley State,Chiefs
+28,Travis Kelce87,TE,30,"6' 5""",260 lbs,8,Cincinnati,Chiefs
+29,Alize Mack86,TE,23,"6' 4""",249 lbs,1,Notre Dame,Chiefs
+30,Ricky Seals-Jones83,TE,25,"6' 5""",243 lbs,4,Texas A&M,Chiefs
+31,Deon Yelder82,TE,25,"6' 4""",255 lbs,3,Western Kentucky,Chiefs
+32,Austin Reiter62,C,28,"6' 3""",300 lbs,5,South Florida,Chiefs
+33,Darryl Williams73,C,22,"6' 3""",310 lbs,R,Mississippi State,Chiefs
+34,Nick Allegretti73,G,24,"6' 4""",320 lbs,2,Illinois,Chiefs
+35,Laurent Duvernay-Tardif76,G,29,"6' 5""",321 lbs,7,McGill,Chiefs
+36,Jovahn Fair,G,--,"6' 2""",315 lbs,R,Temple,Chiefs
+37,Ryan Hunter60,G,25,"6' 3""",316 lbs,1,Bowling Green,Chiefs
+38,Andrew Wylie77,G,25,"6' 6""",309 lbs,3,Eastern Michigan,Chiefs
+39,Jackson Barton68,OT,24,"6' 7""",302 lbs,2,Utah,Chiefs
+40,Yasir Durant,OT,21,"6' 7""",330 lbs,R,Missouri,Chiefs
+41,Eric Fisher72,OT,29,"6' 7""",315 lbs,8,Central Michigan,Chiefs
+42,Lucas Niang77,OT,21,"6' 7""",328 lbs,R,TCU,Chiefs
+43,Martinas Rankin74,OT,25,"6' 5""",311 lbs,3,Mississippi State,Chiefs
+44,Mike Remmers75,OT,31,"6' 5""",308 lbs,8,Oregon State,Chiefs
+45,Mitchell Schwartz71,OT,30,"6' 5""",320 lbs,9,California,Chiefs
+46,Greg Senat70,OT,25,"6' 6""",305 lbs,3,Wagner,Chiefs
+0,Derek Carr4,QB,29,"6' 3""",210 lbs,7,Fresno State,Raiders
+1,DeShone Kizer14,QB,24,"6' 4""",235 lbs,4,Notre Dame,Raiders
+2,Marcus Mariota8,QB,26,"6' 4""",222 lbs,6,Oregon,Raiders
+3,Nathan Peterman3,QB,25,"6' 2""",225 lbs,4,Pittsburgh,Raiders
+4,Lynn Bowden Jr.1,RB,22,"6' 1""",199 lbs,R,Kentucky,Raiders
+5,Josh Jacobs28,RB,22,"5' 10""",220 lbs,2,Alabama,Raiders
+6,Jalen Richard30,RB,26,"5' 8""",205 lbs,5,Southern Miss,Raiders
+7,Rod Smith34,RB,28,"6' 3""",236 lbs,6,Ohio State,Raiders
+8,William Stanback43,RB,25,"6' 0""",231 lbs,1,Virginia Union,Raiders
+9,Alec Ingold45,FB,23,"6' 1""",240 lbs,2,Wisconsin,Raiders
+10,Nelson Agholor13,WR,26,"6' 0""",198 lbs,6,USC,Raiders
+11,Marcell Ateman88,WR,25,"6' 4""",216 lbs,3,Oklahoma State,Raiders
+12,Keelan Doss18,WR,24,"6' 3""",204 lbs,2,UC Davis,Raiders
+13,Bryan Edwards89,WR,21,"6' 3""",215 lbs,R,South Carolina,Raiders
+14,Rico Gafford10,WR,23,"5' 10""",184 lbs,1,Wyoming,Raiders
+15,Zay Jones12,WR,25,"6' 2""",200 lbs,4,East Carolina,Raiders
+16,Siaosi Mariner80,WR,--,"6' 2""",195 lbs,R,Utah State,Raiders
+17,De'Mornay Pierson-El9,WR,24,"5' 9""",185 lbs,1,Nebraska,Raiders
+18,Anthony Ratliff-Williams19,WR,22,"6' 1""",205 lbs,1,North Carolina,Raiders
+19,Hunter Renfrow13,WR,24,"5' 10""",185 lbs,2,Clemson,Raiders
+20,Henry Ruggs III11,WR,21,"6' 0""",190 lbs,R,Alabama,Raiders
+21,Tyrell Williams16,WR,28,"6' 4""",205 lbs,6,Western Oregon,Raiders
+22,Nick Bowers,TE,--,"6' 4""",260 lbs,R,Penn State,Raiders
+23,Paul Butler81,TE,27,"6' 6""",250 lbs,1,California (PA),Raiders
+24,Derek Carrier85,TE,29,"6' 3""",240 lbs,8,Beloit College,Raiders
+25,Foster Moreau87,TE,22,"6' 4""",250 lbs,2,LSU,Raiders
+26,Nick O'Leary86,TE,27,"6' 3""",252 lbs,5,Florida State,Raiders
+27,Darren Waller83,TE,27,"6' 6""",255 lbs,4,Georgia Tech,Raiders
+28,Jason Witten82,TE,37,"6' 6""",263 lbs,17,Tennessee,Raiders
+29,Rodney Hudson61,C,30,"6' 2""",315 lbs,10,Florida State,Raiders
+30,Erik Magnuson62,C,26,"6' 6""",300 lbs,3,Michigan,Raiders
+31,Lester Cotton Sr.67,G,24,"6' 4""",335 lbs,1,Alabama,Raiders
+32,Jordan Devey65,G,32,"6' 6""",320 lbs,7,Memphis,Raiders
+33,Richie Incognito64,G,36,"6' 3""",325 lbs,13,Nebraska,Raiders
+34,Gabe Jackson66,G,28,"6' 3""",335 lbs,7,Mississippi State,Raiders
+35,Kyle Kalis70,G,26,"6' 4""",306 lbs,2,Michigan,Raiders
+36,Eric Kush72,G,30,"6' 4""",317 lbs,8,California (PA),Raiders
+37,John Simpson74,G,22,"6' 4""",330 lbs,R,Clemson,Raiders
+38,Trent Brown77,OT,27,"6' 8""",380 lbs,6,Florida,Raiders
+39,Denzelle Good71,OT,29,"6' 5""",340 lbs,6,Mars Hill,Raiders
+40,Andre James68,OT,23,"6' 4""",300 lbs,2,UCLA,Raiders
+41,Kolton Miller74,OT,24,"6' 8""",325 lbs,3,UCLA,Raiders
+42,Brandon Parker75,OT,24,"6' 8""",320 lbs,3,North Carolina A&T,Raiders
+43,David Sharpe72,OT,24,"6' 6""",330 lbs,4,Florida,Raiders
+0,Justin Herbert10,QB,22,"6' 6""",227 lbs,R,Oregon,Chargers
+1,Easton Stick2,QB,24,"6' 1""",217 lbs,2,North Dakota State,Chargers
+2,Tyrod Taylor5,QB,30,"6' 1""",217 lbs,10,Virginia Tech,Chargers
+3,Darius Bradwell,RB,--,"6' 1""",230 lbs,R,Tulane,Chargers
+4,Austin Ekeler30,RB,24,"5' 10""",200 lbs,4,Western State,Chargers
+5,Justin Jackson22,RB,24,"6' 0""",199 lbs,3,Northwestern,Chargers
+6,Joshua Kelley27,RB,22,"5' 11""",219 lbs,R,UCLA,Chargers
+7,Bobby Holly,FB,22,"6' 1""",252 lbs,R,Louisiana Tech,Chargers
+8,Keenan Allen13,WR,28,"6' 2""",211 lbs,8,California,Chargers
+9,Jeff Cotton,WR,--,"6' 2""",204 lbs,R,Idaho,Chargers
+10,Jalen Guyton15,WR,22,"6' 1""",202 lbs,1,North Texas,Chargers
+11,K.J. Hill84,WR,22,"6' 0""",195 lbs,R,Ohio State,Chargers
+12,Darius Jennings11,WR,27,"5' 10""",180 lbs,4,Virginia,Chargers
+13,Tyron Johnson83,WR,24,"6' 1""",193 lbs,1,Oklahoma State,Chargers
+14,Jason Moore89,WR,24,"6' 2""",213 lbs,2,Findlay,Chargers
+15,Andre Patton16,WR,25,"6' 2""",200 lbs,2,Rutgers,Chargers
+16,Joe Reed12,WR,22,"6' 1""",215 lbs,R,Virginia,Chargers
+17,Dalton Schoen,WR,23,"6' 1""",209 lbs,R,Kansas State,Chargers
+18,Mike Williams81,WR,25,"6' 4""",220 lbs,4,Clemson,Chargers
+19,Stephen Anderson82,TE,27,"6' 3""",230 lbs,3,California,Chargers
+20,Virgil Green88,TE,31,"6' 5""",255 lbs,10,Nevada,Chargers
+21,Hunter Henry86,TE,25,"6' 5""",250 lbs,5,Arkansas,Chargers
+22,Gabe Nabers,TE,--,"6' 2""",215 lbs,R,Florida State,Chargers
+23,Donald Parham48,TE,22,"6' 8""",237 lbs,1,Stetson,Chargers
+24,Jared Rice,TE,--,"6' 5""",243 lbs,R,Fresno State,Chargers
+25,Andrew Vollert87,TE,25,"6' 5""",245 lbs,2,Weber State,Chargers
+26,Mike Pouncey53,C,30,"6' 5""",298 lbs,10,Florida,Chargers
+27,Scott Quessenberry61,C,25,"6' 4""",310 lbs,3,UCLA,Chargers
+28,Cole Toner64,C,26,"6' 5""",310 lbs,3,Harvard,Chargers
+29,Josh Dunlop,G,23,"6' 7""",305 lbs,R,UTSA,Chargers
+30,Dan Feeney66,G,25,"6' 4""",310 lbs,4,Indiana,Chargers
+31,Nathan Gilliam,G,22,"6' 5""",300 lbs,R,Wake Forest,Chargers
+32,Forrest Lamp77,G,26,"6' 4""",310 lbs,4,Western Kentucky,Chargers
+33,Koda Martin65,G,24,"6' 6""",304 lbs,2,Syracuse,Chargers
+34,Trai Turner70,G,26,"6' 3""",315 lbs,7,LSU,Chargers
+35,Bryan Bulaga75,OT,31,"6' 5""",314 lbs,11,Iowa,Chargers
+36,Storm Norton74,OT,25,"6' 7""",317 lbs,1,Toledo,Chargers
+37,Trey Pipkins79,OT,23,"6' 6""",304 lbs,2,Sioux Falls,Chargers
+38,Ryan Roberts,OT,--,"6' 6""",305 lbs,R,Florida State,Chargers
+39,Trent Scott78,OT,26,"6' 5""",320 lbs,3,Grambling State,Chargers
+40,Tyree St. Louis73,OT,22,"6' 5""",305 lbs,1,Miami (FL),Chargers
+41,Sam Tevi69,OT,25,"6' 5""",315 lbs,4,Utah,Chargers
+0,Andy Dalton,QB,32,"6' 2""",220 lbs,10,TCU,Cowboys
+1,Ben DiNucci1,QB,23,"6' 3""",210 lbs,R,James Madison,Cowboys
+2,Dak Prescott4,QB,26,"6' 2""",235 lbs,5,Mississippi State,Cowboys
+3,Cooper Rush7,QB,26,"6' 3""",225 lbs,4,Central Michigan,Cowboys
+4,Clayton Thorson5,QB,24,"6' 4""",225 lbs,1,Northwestern,Cowboys
+5,Darius Anderson,RB,--,"5' 11""",212 lbs,R,TCU,Cowboys
+6,Jordan Chunn38,RB,25,"6' 0""",230 lbs,1,Troy,Cowboys
+7,Rico Dowdle,RB,--,"6' 0""",215 lbs,R,South Carolina,Cowboys
+8,Ezekiel Elliott21,RB,24,"6' 0""",228 lbs,5,Ohio State,Cowboys
+9,Sewo Olonilua,RB,--,"6' 3""",240 lbs,R,TCU,Cowboys
+10,Tony Pollard20,RB,23,"6' 0""",215 lbs,2,Memphis,Cowboys
+11,Jamize Olawale49,FB,31,"6' 1""",242 lbs,8,North Texas,Cowboys
+12,Noah Brown85,WR,24,"6' 2""",222 lbs,4,Ohio State,Cowboys
+13,Ventell Bryant83,WR,23,"6' 3""",205 lbs,2,Temple,Cowboys
+14,Amari Cooper19,WR,25,"6' 1""",225 lbs,6,Alabama,Cowboys
+15,Michael Gallup13,WR,24,"6' 1""",205 lbs,3,Colorado State,Cowboys
+16,Jon'Vea Johnson81,WR,24,"6' 0""",195 lbs,2,Toledo,Cowboys
+17,Tevin Jones14,WR,27,"6' 2""",225 lbs,1,Memphis,Cowboys
+18,CeeDee Lamb88,WR,21,"6' 2""",189 lbs,R,Oklahoma,Cowboys
+19,Aaron Parker,WR,--,"6' 3""",208 lbs,R,Rhode Island,Cowboys
+20,Kendrick Rogers,WR,--,"6' 4""",204 lbs,R,Texas A&M,Cowboys
+21,Devin Smith15,WR,28,"6' 1""",205 lbs,5,Ohio State,Cowboys
+22,Cedrick Wilson11,WR,25,"6' 2""",200 lbs,3,Boise State,Cowboys
+23,Blake Bell80,TE,28,"6' 6""",252 lbs,6,Oklahoma,Cowboys
+24,Cole Hikutini87,TE,25,"6' 4""",240 lbs,2,Louisville,Cowboys
+25,Blake Jarwin89,TE,25,"6' 5""",260 lbs,4,Oklahoma State,Cowboys
+26,Sean McKeon,TE,--,"6' 5""",246 lbs,R,Michigan,Cowboys
+27,Dalton Schultz86,TE,23,"6' 5""",260 lbs,3,Stanford,Cowboys
+28,Charlie Taumoepeau,TE,--,"6' 3""",245 lbs,R,Portland State,Cowboys
+29,Tyler Biadasz63,C,--,"6' 3""",321 lbs,R,Wisconsin,Cowboys
+30,Marcus Henry62,C,27,"6' 2""",303 lbs,1,Boise State,Cowboys
+31,Joe Looney73,C,29,"6' 3""",315 lbs,9,Wake Forest,Cowboys
+32,Adam Redmond61,C,26,"6' 6""",310 lbs,3,Harvard,Cowboys
+33,Zack Martin70,G,29,"6' 4""",315 lbs,7,Notre Dame,Cowboys
+34,Connor McGovern66,G,22,"6' 5""",316 lbs,2,Penn State,Cowboys
+35,Cody Wichmann78,G,28,"6' 5""",320 lbs,4,Fresno State,Cowboys
+36,Connor Williams52,G,22,"6' 5""",320 lbs,3,Texas,Cowboys
+37,La'el Collins71,OT,26,"6' 4""",323 lbs,6,LSU,Cowboys
+38,Mitch Hyatt65,OT,23,"6' 5""",306 lbs,1,Clemson,Cowboys
+39,Brandon Knight69,OT,23,"6' 4""",310 lbs,2,Indiana,Cowboys
+40,Wyatt Miller67,OT,24,"6' 5""",298 lbs,1,UCF,Cowboys
+41,Tyron Smith77,OT,29,"6' 5""",320 lbs,10,USC,Cowboys
+42,Terence Steele78,OT,--,"6' 6""",310 lbs,R,Texas Tech,Cowboys
+0,Case Cookus15,QB,24,"6' 4""",205 lbs,R,Northern Arizona,Giants
+1,Daniel Jones8,QB,22,"6' 5""",220 lbs,2,Duke,Giants
+2,Colt McCoy12,QB,33,"6' 1""",212 lbs,11,Texas,Giants
+3,Alex Tanney3,QB,32,"6' 3""",208 lbs,5,Monmouth (IL),Giants
+4,Saquon Barkley26,RB,23,"6' 0""",233 lbs,3,Penn State,Giants
+5,Wayne Gallman22,RB,25,"6' 0""",216 lbs,4,Clemson,Giants
+6,Jonathan Hilliman28,RB,24,"6' 0""",226 lbs,1,Rutgers,Giants
+7,Javon Leake,RB,21,"6' 0""",206 lbs,R,Maryland,Giants
+8,Dion Lewis33,RB,29,"5' 8""",195 lbs,9,Pittsburgh,Giants
+9,Elijhaa Penny39,RB,26,"6' 1""",250 lbs,4,Idaho,Giants
+10,George Aston45,FB,24,"6' 0""",240 lbs,1,Pittsburgh,Giants
+11,Alex Bachman80,WR,23,"6' 0""",190 lbs,1,Wake Forest,Giants
+12,Corey Coleman19,WR,25,"5' 11""",185 lbs,5,Baylor,Giants
+13,Cody Core17,WR,26,"6' 3""",205 lbs,5,Ole Miss,Giants
+14,Derrick Dillon,WR,24,"5' 11""",185 lbs,R,LSU-Shreveport,Giants
+15,Rysen John,WR,--,"6' 7""",220 lbs,R,Simon Fraser,Giants
+16,Austin Mack,WR,22,"6' 1""",215 lbs,R,Ohio State,Giants
+17,Da'Mari Scott18,WR,24,"6' 0""",205 lbs,2,Fresno State,Giants
+18,Sterling Shepard87,WR,27,"5' 10""",196 lbs,5,Oklahoma,Giants
+19,David Sills V84,WR,23,"6' 3""",211 lbs,1,West Virginia,Giants
+20,Darius Slayton86,WR,23,"6' 1""",194 lbs,2,Auburn,Giants
+21,Golden Tate15,WR,31,"5' 11""",191 lbs,11,Notre Dame,Giants
+22,Binjimen Victor,WR,23,"6' 4""",199 lbs,R,Ohio State,Giants
+23,Reggie White Jr.13,WR,24,"6' 2""",212 lbs,1,Monmouth,Giants
+24,Garrett Dickerson89,TE,24,"6' 3""",252 lbs,3,Northwestern,Giants
+25,Evan Engram88,TE,25,"6' 3""",240 lbs,4,Ole Miss,Giants
+26,Kyle Markway,TE,23,"6' 4""",250 lbs,R,South Carolina,Giants
+27,Kaden Smith82,TE,23,"6' 5""",249 lbs,2,Stanford,Giants
+28,Levine Toilolo85,TE,28,"6' 8""",268 lbs,8,Stanford,Giants
+29,Eric Tomlinson83,TE,28,"6' 6""",263 lbs,5,UTEP,Giants
+30,Spencer Pulley77,C,27,"6' 4""",308 lbs,5,Vanderbilt,Giants
+31,Nick Gates65,G,24,"6' 6""",318 lbs,3,Nebraska,Giants
+32,Will Hernandez71,G,24,"6' 3""",332 lbs,3,UTEP,Giants
+33,Shane Lemieux68,G,22,"6' 4""",316 lbs,R,Oregon,Giants
+34,Kyle Murphy,G,21,"6' 4""",302 lbs,R,Rhode Island,Giants
+35,Chad Slade62,G,27,"6' 5""",315 lbs,3,Auburn,Giants
+36,Kevin Zeitler70,G,30,"6' 4""",330 lbs,9,Wisconsin,Giants
+37,Cameron Fleming75,OT,27,"6' 5""",320 lbs,7,Stanford,Giants
+38,Tyler Haycraft,OT,23,"6' 3""",293 lbs,R,Louisville,Giants
+39,Matt Peart65,OT,22,"6' 5""",310 lbs,R,Connecticut,Giants
+40,Eric Smith79,OT,24,"6' 4""",308 lbs,3,Virginia,Giants
+41,Nate Solder76,OT,32,"6' 9""",316 lbs,10,Colorado,Giants
+42,Andrew Thomas71,OT,21,"6' 5""",320 lbs,R,Georgia,Giants
+43,Nate Wozniak68,OT,25,"6' 10""",280 lbs,1,Minnesota,Giants
+0,Jalen Hurts1,QB,21,"6' 1""",218 lbs,R,Oklahoma,Eagles
+1,Kyle Lauletta8,QB,25,"6' 2""",219 lbs,2,Richmond,Eagles
+2,Nate Sudfeld7,QB,26,"6' 6""",227 lbs,5,Indiana,Eagles
+3,Carson Wentz11,QB,27,"6' 5""",237 lbs,5,North Dakota State,Eagles
+4,Corey Clement30,RB,25,"5' 10""",220 lbs,4,Wisconsin,Eagles
+5,Elijah Holyfield33,RB,22,"5' 10""",215 lbs,1,Georgia,Eagles
+6,Adrian Killins Jr.9,RB,22,"5' 8""",164 lbs,R,UCF,Eagles
+7,Miles Sanders26,RB,23,"5' 11""",211 lbs,2,Penn State,Eagles
+8,Boston Scott35,RB,25,"5' 6""",203 lbs,2,Louisiana Tech,Eagles
+9,Michael Warren II3,RB,21,"5' 11""",222 lbs,R,Cincinnati,Eagles
+10,J.J. Arcega-Whiteside19,WR,23,"6' 2""",225 lbs,2,Stanford,Eagles
+11,Manasseh Bailey13,WR,22,"6' 1""",195 lbs,R,Morgan State,Eagles
+12,Deontay Burnett16,WR,22,"6' 0""",186 lbs,2,USC,Eagles
+13,Robert Davis14,WR,25,"6' 3""",210 lbs,3,Georgia State,Eagles
+14,Shelton Gibson83,WR,25,"5' 11""",191 lbs,3,West Virginia,Eagles
+15,Marquise Goodwin1,WR,29,"5' 9""",185 lbs,8,Texas,Eagles
+16,Marcus Green89,WR,23,"5' 8""",191 lbs,1,Louisiana-Monroe,Eagles
+17,John Hightower16,WR,23,"6' 2""",172 lbs,R,Boise State,Eagles
+18,DeSean Jackson10,WR,33,"5' 10""",175 lbs,13,California,Eagles
+19,Alshon Jeffery17,WR,30,"6' 3""",218 lbs,9,South Carolina,Eagles
+20,Jalen Reagor1,WR,21,"5' 11""",195 lbs,R,TCU,Eagles
+21,Khalil Tate,WR,21,"6' 2""",215 lbs,R,Arizona,Eagles
+22,Greg Ward Jr.84,WR,24,"5' 11""",190 lbs,2,Houston,Eagles
+23,Quez Watkins16,WR,21,"6' 2""",190 lbs,R,Southern Miss,Eagles
+24,Alex Ellis85,TE,27,"6' 4""",245 lbs,3,Tennessee,Eagles
+25,Zach Ertz86,TE,29,"6' 5""",250 lbs,8,Stanford,Eagles
+26,Dallas Goedert88,TE,25,"6' 5""",256 lbs,3,South Dakota State,Eagles
+27,Josh Perkins81,TE,26,"6' 3""",223 lbs,3,Washington,Eagles
+28,Noah Togiai81,TE,--,"6' 4""",246 lbs,R,Oregon State,Eagles
+29,Luke Juriga59,C,22,"6' 3""",298 lbs,R,Western Michigan,Eagles
+30,Jason Kelce62,C,32,"6' 3""",295 lbs,10,Cincinnati,Eagles
+31,Keegan Render64,C,24,"6' 4""",307 lbs,1,Iowa,Eagles
+32,Brandon Brooks79,G,30,"6' 5""",335 lbs,9,Miami (OH),Eagles
+33,Jack Driscoll71,G,23,"6' 5""",296 lbs,R,Auburn,Eagles
+34,Julian Good-Jones51,G,23,"6' 5""",308 lbs,R,Iowa State,Eagles
+35,Nate Herbig67,G,21,"6' 4""",334 lbs,2,Stanford,Eagles
+36,Sua Opeta78,G,23,"6' 4""",305 lbs,1,Weber State,Eagles
+37,Isaac Seumalo73,G,26,"6' 4""",303 lbs,5,Oregon State,Eagles
+38,Andre Dillard77,OT,24,"6' 5""",315 lbs,2,Washington State,Eagles
+39,Lane Johnson65,OT,29,"6' 6""",317 lbs,8,Oklahoma,Eagles
+40,Jordan Mailata68,OT,23,"6' 8""",346 lbs,3,--,Eagles
+41,Matt Pryor69,OT,25,"6' 7""",332 lbs,3,TCU,Eagles
+42,Casey Tucker,OT,--,"6' 6""",315 lbs,1,Arizona State,Eagles
+43,Prince Tega Wanogho76,OT,22,"6' 5""",307 lbs,R,Auburn,Eagles
+0,Kyle Allen10,QB,24,"6' 3""",210 lbs,2,Houston,Redskins
+1,Dwayne Haskins Jr.7,QB,22,"6' 4""",231 lbs,2,Ohio State,Redskins
+2,Steven Montez6,QB,23,"6' 4""",240 lbs,R,Colorado,Redskins
+3,Alex Smith11,QB,35,"6' 4""",213 lbs,16,Utah,Redskins
+4,Peyton Barber25,RB,26,"5' 11""",225 lbs,5,Auburn,Redskins
+5,Josh Ferguson36,RB,26,"5' 10""",205 lbs,3,Illinois,Redskins
+6,Antonio Gibson24,RB,21,"6' 1""",220 lbs,R,Memphis,Redskins
+7,Derrius Guice29,RB,22,"5' 11""",225 lbs,3,LSU,Redskins
+8,Bryce Love23,RB,22,"5' 9""",200 lbs,1,Stanford,Redskins
+9,J.D. McKissic41,RB,26,"5' 10""",195 lbs,4,Arkansas State,Redskins
+10,Adrian Peterson26,RB,35,"6' 1""",220 lbs,13,Oklahoma,Redskins
+11,Antonio Gandy-Golden10,WR,22,"6' 4""",220 lbs,R,Liberty,Redskins
+12,Emanuel Hall80,WR,22,"6' 3""",195 lbs,1,Missouri,Redskins
+13,Kelvin Harmon13,WR,23,"6' 2""",215 lbs,2,North Carolina State,Redskins
+14,Johnathon Johnson12,WR,--,"5' 10""",180 lbs,R,Missouri,Redskins
+15,Darvin Kidsy84,WR,25,"6' 0""",190 lbs,1,Texas Southern,Redskins
+16,Cody Latimer12,WR,27,"6' 3""",222 lbs,7,Indiana,Redskins
+17,Terry McLaurin17,WR,24,"6' 0""",210 lbs,2,Ohio State,Redskins
+18,Trey Quinn18,WR,24,"6' 0""",200 lbs,3,SMU,Redskins
+19,Cam Sims89,WR,24,"6' 5""",220 lbs,3,Alabama,Redskins
+20,Steven Sims Jr.15,WR,23,"5' 10""",190 lbs,2,Kansas,Redskins
+21,Jordan Veasy14,WR,24,"6' 3""",221 lbs,1,California,Redskins
+22,Jester Weah19,WR,25,"6' 3""",209 lbs,1,Pittsburgh,Redskins
+23,Isaiah Wright83,WR,--,"6' 2""",220 lbs,R,Temple,Redskins
+24,Marcus Baugh85,TE,25,"6' 4""",245 lbs,2,Ohio State,Redskins
+25,Hale Hentges88,TE,23,"6' 4""",245 lbs,2,Alabama,Redskins
+26,Thaddeus Moss46,TE,21,"6' 3""",249 lbs,R,LSU,Redskins
+27,Richard Rodgers82,TE,28,"6' 4""",257 lbs,6,California,Redskins
+28,Jeremy Sprinkle87,TE,25,"6' 5""",255 lbs,4,Arkansas,Redskins
+29,Logan Thomas82,TE,28,"6' 6""",250 lbs,6,Virginia Tech,Redskins
+30,Caleb Wilson83,TE,23,"6' 4""",240 lbs,1,UCLA,Redskins
+31,Keith Ismael60,C,21,"6' 3""",300 lbs,R,San Diego State,Redskins
+32,Ross Pierschbacher64,C,24,"6' 4""",315 lbs,2,Alabama,Redskins
+33,Chase Roullier73,C,26,"6' 4""",312 lbs,4,Wyoming,Redskins
+34,Wes Martin67,G,23,"6' 3""",315 lbs,2,Indiana,Redskins
+35,Brandon Scherff75,G,28,"6' 5""",315 lbs,6,Iowa,Redskins
+36,Wes Schweitzer71,G,26,"6' 4""",300 lbs,5,San Jose State,Redskins
+37,Jeremy Vujnovich68,G,29,"6' 5""",300 lbs,3,Louisiana College,Redskins
+38,Paul Adams79,OT,24,"6' 6""",315 lbs,1,Missouri,Redskins
+39,Saahdiq Charles77,OT,20,"6' 4""",295 lbs,R,LSU,Redskins
+40,Geron Christian Sr.74,OT,23,"6' 6""",315 lbs,3,Louisville,Redskins
+41,Cornelius Lucas III73,OT,28,"6' 8""",328 lbs,6,Kansas State,Redskins
+42,Morgan Moses76,OT,29,"6' 6""",330 lbs,7,Virginia,Redskins
+43,Timon Parris61,OT,24,"6' 6""",320 lbs,1,Stony Brook,Redskins
+0,Tyler Bray8,QB,28,"6' 6""",215 lbs,6,Tennessee,Bears
+1,Nick Foles9,QB,31,"6' 6""",243 lbs,9,Arizona,Bears
+2,Mitchell Trubisky10,QB,25,"6' 2""",215 lbs,4,North Carolina,Bears
+3,Tarik Cohen29,RB,24,"5' 6""",181 lbs,4,North Carolina A&T,Bears
+4,Napoleon Maxwell,RB,--,"6' 0""",215 lbs,R,Florida International,Bears
+5,David Montgomery32,RB,22,"5' 10""",222 lbs,2,Iowa State,Bears
+6,Ryan Nall35,RB,24,"6' 2""",239 lbs,2,Oregon State,Bears
+7,Artavis Pierce,RB,23,"5' 11""",208 lbs,R,Oregon State,Bears
+8,Reggie Davis19,WR,24,"5' 11""",185 lbs,1,Georgia,Bears
+9,Trevor Davis,WR,26,"6' 1""",188 lbs,5,California,Bears
+10,Ted Ginn Jr.19,WR,35,"5' 11""",180 lbs,14,Ohio State,Bears
+11,Thomas Ives14,WR,23,"6' 5""",215 lbs,1,Colgate,Bears
+12,Anthony Miller17,WR,25,"5' 11""",199 lbs,3,Memphis,Bears
+13,Darnell Mooney3,WR,22,"6' 4""",312 lbs,R,Tulane,Bears
+14,Cordarrelle Patterson84,WR,29,"6' 2""",238 lbs,8,Tennessee,Bears
+15,Riley Ridley88,WR,23,"6' 1""",200 lbs,2,Georgia,Bears
+16,Allen Robinson II12,WR,26,"6' 2""",220 lbs,7,Penn State,Bears
+17,Ahmad Wagner,WR,--,"6' 5""",234 lbs,R,Kentucky,Bears
+18,Alex Wesley13,WR,24,"6' 0""",190 lbs,1,Northern Colorado,Bears
+19,Javon Wims83,WR,25,"6' 2""",221 lbs,3,Georgia,Bears
+20,Ben Braunecker82,TE,26,"6' 3""",247 lbs,5,Harvard,Bears
+21,Darion Clark44,TE,--,"6' 7""",235 lbs,R,USC,Bears
+22,Jimmy Graham80,TE,33,"6' 7""",265 lbs,11,Miami (FL),Bears
+23,Demetrius Harris86,TE,28,"6' 7""",230 lbs,7,Milwaukee,Bears
+24,J.P. Holtz81,TE,26,"6' 3""",255 lbs,2,Pittsburgh,Bears
+25,Jesper Horsted49,TE,23,"6' 3""",237 lbs,2,Princeton,Bears
+26,Cole Kmet84,TE,21,"6' 3""",250 lbs,R,Notre Dame,Bears
+27,Eric Saubert43,TE,26,"6' 5""",253 lbs,3,Drake,Bears
+28,Adam Shaheen87,TE,25,"6' 6""",257 lbs,4,Ashland,Bears
+29,James Daniels68,C,22,"6' 3""",305 lbs,3,Iowa,Bears
+30,Sam Mustipher67,C,23,"6' 3""",306 lbs,1,Notre Dame,Bears
+31,Cody Whitehair65,C,27,"6' 3""",310 lbs,5,Kansas State,Bears
+32,Alex Bars64,G,24,"6' 5""",314 lbs,2,Notre Dame,Bears
+33,Dieter Eiselen72,G,--,"6' 4""",310 lbs,R,Yale,Bears
+34,Corey Levin60,G,25,"6' 4""",307 lbs,3,Chattanooga,Bears
+35,Dino Boyd79,OT,23,"6' 4""",300 lbs,1,Cincinnati,Bears
+36,Rashaad Coward69,OT,25,"6' 5""",326 lbs,3,Old Dominion,Bears
+37,Arlington Hambright51,OT,24,"6' 5""",300 lbs,R,Colorado,Bears
+38,Germain Ifedi74,OT,25,"6' 5""",325 lbs,5,Texas A&M,Bears
+39,Charles Leno Jr.72,OT,28,"6' 3""",306 lbs,7,Boise State,Bears
+40,Bobby Massie70,OT,30,"6' 6""",325 lbs,9,Ole Miss,Bears
+41,Lachavious Simmons60,OT,23,"6' 5""",290 lbs,R,Tennessee State,Bears
+42,Jason Spriggs78,OT,25,"6' 6""",301 lbs,5,Indiana,Bears
+43,Badara Traore,OT,--,"6' 7""",320 lbs,R,LSU,Bears
+0,David Blough10,QB,24,"6' 1""",205 lbs,2,Purdue,Lions
+1,Chase Daniel4,QB,33,"6' 0""",229 lbs,12,Missouri,Lions
+2,Matthew Stafford9,QB,32,"6' 3""",220 lbs,12,Georgia,Lions
+3,Wes Hills36,RB,24,"6' 2""",218 lbs,1,Slippery Rock,Lions
+4,Jason Huntley1,RB,22,"5' 9""",193 lbs,R,New Mexico State,Lions
+5,Kerryon Johnson33,RB,22,"5' 11""",211 lbs,3,Auburn,Lions
+6,Ty Johnson31,RB,22,"5' 10""",210 lbs,2,Maryland,Lions
+7,Bo Scarbrough43,RB,23,"6' 1""",235 lbs,2,Alabama,Lions
+8,D'Andre Swift7,RB,21,"5' 9""",215 lbs,R,Georgia,Lions
+9,Nick Bawden46,FB,23,"6' 2""",245 lbs,3,San Diego State,Lions
+10,Luke Sellers,FB,--,"6' 1""",250 lbs,R,South Dakota State,Lions
+11,Geronimo Allison81,WR,26,"6' 3""",202 lbs,5,Illinois,Lions
+12,Danny Amendola80,WR,34,"5' 11""",185 lbs,12,Texas Tech,Lions
+13,Victor Bolden Jr.13,WR,25,"5' 8""",178 lbs,3,Oregon State,Lions
+14,Quintez Cephus87,WR,22,"6' 1""",207 lbs,R,Wisconsin,Lions
+15,Geremy Davis11,WR,28,"6' 3""",211 lbs,6,Connecticut,Lions
+16,Travis Fulgham14,WR,24,"6' 2""",215 lbs,2,Old Dominion,Lions
+17,Kenny Golladay19,WR,26,"6' 4""",214 lbs,4,Northern Illinois,Lions
+18,Marvin Hall17,WR,27,"5' 10""",190 lbs,4,Washington,Lions
+19,Marvin Jones Jr.11,WR,30,"6' 2""",198 lbs,9,California,Lions
+20,Tom Kennedy85,WR,23,"5' 11""",190 lbs,1,Bryant University,Lions
+21,Chris Lacy15,WR,24,"6' 3""",205 lbs,2,Oklahoma State,Lions
+22,Hunter Bryant1,TE,21,"6' 2""",239 lbs,R,Washington,Lions
+23,T.J. Hockenson88,TE,22,"6' 5""",247 lbs,2,Iowa,Lions
+24,Jesse James83,TE,25,"6' 7""",250 lbs,6,Penn State,Lions
+25,Isaac Nauta89,TE,22,"6' 3""",244 lbs,2,Georgia,Lions
+26,Matt Sokol46,TE,24,"6' 5""",249 lbs,1,Michigan State,Lions
+27,Russell Bodine66,C,27,"6' 3""",308 lbs,5,North Carolina,Lions
+28,Frank Ragnow77,C,23,"6' 5""",311 lbs,3,Arkansas,Lions
+29,Oday Aboushi76,G,28,"6' 5""",315 lbs,8,Virginia,Lions
+30,Caleb Benenoch74,G,25,"6' 5""",305 lbs,5,UCLA,Lions
+31,Beau Benzschawel63,G,24,"6' 6""",300 lbs,2,Wisconsin,Lions
+32,Joe Dahl66,G,27,"6' 4""",310 lbs,5,Washington State,Lions
+33,Joshua Garnett65,G,26,"6' 5""",305 lbs,3,Stanford,Lions
+34,Jonah Jackson73,G,23,"6' 4""",310 lbs,R,Ohio State,Lions
+35,Logan Stenberg71,G,23,"6' 6""",317 lbs,R,Kentucky,Lions
+36,Kenny Wiggins79,G,31,"6' 6""",315 lbs,7,Fresno State,Lions
+37,Tyrell Crosby65,OT,24,"6' 4""",310 lbs,3,Oregon,Lions
+38,Taylor Decker68,OT,26,"6' 7""",318 lbs,5,Ohio State,Lions
+39,Matt Nelson67,OT,24,"6' 8""",295 lbs,1,Iowa,Lions
+40,Dan Skipper70,OT,25,"6' 9""",317 lbs,2,Arkansas,Lions
+41,Halapoulivaati Vaitai72,OT,26,"6' 6""",320 lbs,5,TCU,Lions
+0,Tim Boyle8,QB,25,"6' 4""",232 lbs,3,Eastern Kentucky,Packers
+1,Jordan Love10,QB,21,"6' 4""",225 lbs,R,Utah State,Packers
+2,Jalen Morton7,QB,--,"6' 4""",226 lbs,R,Prairie View A&M,Packers
+3,Aaron Rodgers12,QB,36,"6' 2""",225 lbs,16,California,Packers
+4,Damarea Crockett34,RB,22,"5' 11""",225 lbs,1,Missouri,Packers
+5,AJ Dillon28,RB,22,"6' 0""",250 lbs,R,Boston College,Packers
+6,Tyler Ervin32,RB,26,"5' 10""",192 lbs,5,San Jose State,Packers
+7,Aaron Jones33,RB,25,"5' 9""",208 lbs,4,UTEP,Packers
+8,Patrick Taylor Jr.,RB,22,"6' 3""",216 lbs,R,Memphis,Packers
+9,Dexter Williams22,RB,23,"5' 11""",212 lbs,2,Notre Dame,Packers
+10,Jamaal Williams30,RB,25,"6' 0""",213 lbs,4,BYU,Packers
+11,Elijah Wellman46,FB,25,"6' 2""",243 lbs,1,West Virginia,Packers
+12,Davante Adams17,WR,27,"6' 1""",215 lbs,7,Fresno State,Packers
+13,Reggie Begelton84,WR,26,"6' 2""",200 lbs,1,Lamar,Packers
+14,Devin Funchess11,WR,25,"6' 4""",225 lbs,6,Michigan,Packers
+15,Jake Kumerow16,WR,28,"6' 4""",209 lbs,3,Wisc. Whitewater,Packers
+16,Allen Lazard13,WR,24,"6' 5""",227 lbs,2,Iowa State,Packers
+17,Darrius Shepherd9,WR,24,"5' 11""",186 lbs,2,North Dakota State,Packers
+18,Equanimeous St. Brown19,WR,23,"6' 5""",214 lbs,3,Notre Dame,Packers
+19,Darrell Stewart Jr.,WR,23,"6' 2""",216 lbs,R,Michigan State,Packers
+20,Malik Taylor86,WR,24,"6' 3""",220 lbs,1,Ferris State,Packers
+21,Marquez Valdes-Scantling83,WR,25,"6' 4""",206 lbs,3,South Florida,Packers
+22,Evan Baylis88,TE,26,"6' 5""",250 lbs,1,Oregon,Packers
+23,Josiah Deguara81,TE,23,"6' 3""",245 lbs,R,Cincinnati,Packers
+24,Jordan Jones45,TE,--,"6' 1""",250 lbs,R,Prairie View A&M,Packers
+25,Marcedes Lewis89,TE,35,"6' 6""",267 lbs,15,UCLA,Packers
+26,James Looney49,TE,24,"6' 3""",287 lbs,2,California,Packers
+27,Jace Sternberger87,TE,23,"6' 4""",251 lbs,2,Texas A&M,Packers
+28,Robert Tonyan85,TE,26,"6' 5""",237 lbs,3,Indiana State,Packers
+29,Jake Hanson67,C,23,"6' 5""",297 lbs,R,Oregon,Packers
+30,Corey Linsley63,C,28,"6' 3""",301 lbs,7,Ohio State,Packers
+31,Travis Bruffy78,G,--,"6' 6""",305 lbs,R,Texas Tech,Packers
+32,Elgton Jenkins74,G,24,"6' 5""",311 lbs,2,Mississippi State,Packers
+33,Alex Light70,G,24,"6' 5""",309 lbs,3,Richmond,Packers
+34,Cole Madison61,G,25,"6' 5""",308 lbs,2,Washington State,Packers
+35,Lucas Patrick62,G,26,"6' 3""",313 lbs,4,Duke,Packers
+36,Jon Runyan76,G,22,"6' 5""",321 lbs,R,Michigan,Packers
+37,Simon Stepaniak72,G,22,"6' 4""",321 lbs,R,Indiana,Packers
+38,Lane Taylor65,G,30,"6' 3""",324 lbs,8,Oklahoma State,Packers
+39,Billy Turner77,G,28,"6' 5""",310 lbs,7,North Dakota State,Packers
+40,David Bakhtiari69,OT,28,"6' 4""",310 lbs,8,Colorado,Packers
+41,Cody Conway64,OT,23,"6' 6""",296 lbs,1,Syracuse,Packers
+42,Zack Johnson68,OT,26,"6' 6""",315 lbs,R,North Dakota State,Packers
+43,John Leglue79,OT,24,"6' 7""",310 lbs,1,Tulane,Packers
+44,Yosh Nijman73,OT,24,"6' 7""",314 lbs,1,Virginia Tech,Packers
+45,Rick Wagner71,OT,30,"6' 6""",313 lbs,8,Wisconsin,Packers
+0,Jake Browning3,QB,24,"6' 2""",210 lbs,1,Washington,Vikings
+1,Kirk Cousins8,QB,31,"6' 3""",202 lbs,9,Michigan State,Vikings
+2,Sean Mannion4,QB,28,"6' 6""",230 lbs,6,Oregon State,Vikings
+3,Nate Stanley7,QB,22,"6' 4""",243 lbs,R,Iowa,Vikings
+4,Ameer Abdullah31,RB,26,"5' 9""",203 lbs,6,Nebraska,Vikings
+5,Mike Boone23,RB,24,"5' 10""",206 lbs,3,Cincinnati,Vikings
+6,Tony Brooks-James35,RB,25,"5' 9""",190 lbs,1,Oregon,Vikings
+7,Dalvin Cook33,RB,24,"5' 10""",210 lbs,4,Florida State,Vikings
+8,Alexander Mattison25,RB,21,"5' 11""",220 lbs,2,Boise State,Vikings
+9,C.J. Ham30,FB,26,"5' 11""",235 lbs,4,Augustana (SD),Vikings
+10,Bralon Addison89,WR,26,"5' 9""",197 lbs,1,Oregon,Vikings
+11,Chad Beebe12,WR,25,"5' 10""",183 lbs,3,Northern Illinois,Vikings
+12,Dan Chisena85,WR,23,"6' 3""",202 lbs,R,Penn State,Vikings
+13,Davion Davis16,WR,23,"5' 11""",195 lbs,1,Sam Houston State,Vikings
+14,Quartney Davis14,WR,22,"6' 1""",200 lbs,R,Texas A&M,Vikings
+15,Alexander Hollins15,WR,23,"6' 1""",170 lbs,1,Eastern Illinois,Vikings
+16,Justin Jefferson18,WR,21,"6' 2""",192 lbs,R,LSU,Vikings
+17,Bisi Johnson81,WR,23,"6' 0""",204 lbs,2,Colorado State,Vikings
+18,Dillon Mitchell13,WR,22,"6' 1""",202 lbs,1,Oregon,Vikings
+19,K.J. Osborn17,WR,22,"6' 0""",206 lbs,R,Miami (FL),Vikings
+20,Tajae Sharpe19,WR,25,"6' 2""",194 lbs,5,Massachusetts,Vikings
+21,Adam Thielen19,WR,29,"6' 2""",200 lbs,7,Minnesota State-Mankato,Vikings
+22,Jake Bargas40,TE,--,"6' 2""",250 lbs,R,North Carolina,Vikings
+23,Tyler Conklin83,TE,24,"6' 3""",254 lbs,3,Central Michigan,Vikings
+24,Brandon Dillon86,TE,23,"6' 5""",250 lbs,1,Marian,Vikings
+25,Nakia Griffin-Stewart89,TE,23,"6' 5""",260 lbs,R,Pittsburgh,Vikings
+26,Kyle Rudolph82,TE,30,"6' 6""",265 lbs,10,Notre Dame,Vikings
+27,Irv Smith Jr.84,TE,21,"6' 2""",242 lbs,2,Alabama,Vikings
+28,Garrett Bradbury56,C,24,"6' 3""",305 lbs,2,North Carolina State,Vikings
+29,Brett Jones61,C,28,"6' 2""",315 lbs,6,U Regina ca,Vikings
+30,Jake Lacina63,C,23,"6' 4""",300 lbs,R,Augustana (SD),Vikings
+31,Dakota Dozier78,G,29,"6' 4""",312 lbs,7,Furman,Vikings
+32,Pat Elflein65,G,25,"6' 3""",303 lbs,4,Ohio State,Vikings
+33,Tyler Higby60,G,23,"6' 5""",300 lbs,R,Michigan State,Vikings
+34,Kyle Hinton68,G,22,"6' 2""",295 lbs,R,Washburn,Vikings
+35,Dru Samia73,G,22,"6' 5""",308 lbs,2,Oklahoma,Vikings
+36,Brady Aiello67,OT,--,"6' 7""",311 lbs,R,Oregon,Vikings
+37,Blake Brandel62,OT,--,"6' 7""",307 lbs,R,Oregon State,Vikings
+38,Ezra Cleveland72,OT,21,"6' 6""",310 lbs,R,Boise State,Vikings
+39,Aviante Collins76,OT,27,"6' 4""",292 lbs,4,TCU,Vikings
+40,Rashod Hill69,OT,28,"6' 6""",313 lbs,5,Southern Miss,Vikings
+41,Brian O'Neill75,OT,24,"6' 7""",297 lbs,3,Pittsburgh,Vikings
+42,Riley Reiff71,OT,31,"6' 6""",305 lbs,9,Iowa,Vikings
+43,Oli Udoh74,OT,23,"6' 6""",325 lbs,2,Elon,Vikings
+0,Kurt Benkert6,QB,24,"6' 4""",215 lbs,2,Virginia,Falcons
+1,Danny Etling16,QB,25,"6' 3""",220 lbs,1,LSU,Falcons
+2,Matt Ryan2,QB,34,"6' 4""",217 lbs,13,Boston College,Falcons
+3,Matt Schaub8,QB,38,"6' 6""",245 lbs,17,Virginia,Falcons
+4,Mikey Daniel,RB,--,"6' 2""",235 lbs,R,South Dakota State,Falcons
+5,Todd Gurley II21,RB,25,"6' 1""",224 lbs,6,Georgia,Falcons
+6,Brian Hill23,RB,24,"6' 1""",219 lbs,4,Wyoming,Falcons
+7,Qadree Ollison30,RB,23,"6' 1""",232 lbs,2,Pittsburgh,Falcons
+8,Craig Reynolds42,RB,23,"5' 11""",225 lbs,1,Kutztown,Falcons
+9,Ito Smith25,RB,24,"5' 9""",195 lbs,3,Southern Miss,Falcons
+10,Keith Smith40,FB,28,"6' 0""",240 lbs,7,San Jose State,Falcons
+11,Christian Blake13,WR,23,"6' 1""",181 lbs,2,Northern Illinois,Falcons
+12,Russell Gage83,WR,24,"6' 0""",184 lbs,3,LSU,Falcons
+13,Devin Gray19,WR,24,"6' 0""",192 lbs,1,Cincinnati,Falcons
+14,Juwan Green,WR,--,"6' 0""",187 lbs,R,Albany,Falcons
+15,Julio Jones11,WR,31,"6' 3""",220 lbs,10,Alabama,Falcons
+16,Jalen McCleskey,WR,--,"5' 11""",165 lbs,R,Tulane,Falcons
+17,Brandon Powell15,WR,24,"5' 8""",181 lbs,3,Florida,Falcons
+18,Calvin Ridley18,WR,25,"6' 1""",190 lbs,3,Alabama,Falcons
+19,Chris Rowland3,WR,--,"5' 6""",185 lbs,R,Tennessee State,Falcons
+20,Laquon Treadwell80,WR,24,"6' 2""",215 lbs,5,Ole Miss,Falcons
+21,Olamide Zaccheaus17,WR,22,"5' 8""",193 lbs,2,Virginia,Falcons
+22,Jaeden Graham87,TE,24,"6' 4""",250 lbs,2,Yale,Falcons
+23,Hayden Hurst81,TE,26,"6' 4""",260 lbs,3,South Carolina,Falcons
+24,Khari Lee86,TE,28,"6' 4""",253 lbs,4,Bowie State,Falcons
+25,Carson Meier85,TE,24,"6' 5""",254 lbs,1,Oklahoma,Falcons
+26,Jared Pinkney,TE,22,"6' 4""",254 lbs,R,Vanderbilt,Falcons
+27,Caleb Repp87,TE,--,"6' 5""",225 lbs,R,Utah State,Falcons
+28,Matt Hennessy61,C,22,"6' 4""",302 lbs,R,Temple,Falcons
+29,Alex Mack51,C,34,"6' 4""",311 lbs,12,California,Falcons
+30,Jamon Brown68,G,27,"6' 4""",340 lbs,6,Louisville,Falcons
+31,Austin Capps,G,22,"6' 4""",304 lbs,R,Arkansas,Falcons
+32,James Carpenter77,G,31,"6' 5""",321 lbs,10,Alabama,Falcons
+33,Justin Gooseberry,G,--,"6' 4""",290 lbs,R,Rice,Falcons
+34,Sean Harlow64,G,25,"6' 4""",284 lbs,2,Oregon State,Falcons
+35,Chris Lindstrom63,G,23,"6' 4""",307 lbs,2,Boston College,Falcons
+36,Justin McCray65,G,27,"6' 3""",315 lbs,4,UCF,Falcons
+37,John Wetzel75,G,28,"6' 7""",328 lbs,5,Boston College,Falcons
+38,Hunter Atkinson,OT,24,"6' 5""",295 lbs,R,Georgia State,Falcons
+39,Scottie Dill,OT,--,"6' 7""",295 lbs,R,Memphis,Falcons
+40,Matt Gono73,OT,23,"6' 4""",305 lbs,3,--,Falcons
+41,Evin Ksiezarczyk,OT,--,"6' 6""",310 lbs,R,Buffalo,Falcons
+42,Jake Matthews70,OT,28,"6' 5""",309 lbs,7,Texas A&M,Falcons
+43,Kaleb McGary76,OT,25,"6' 6""",306 lbs,2,Washington,Falcons
+0,Teddy Bridgewater5,QB,27,"6' 2""",215 lbs,7,Louisville,Panthers
+1,Will Grier7,QB,25,"6' 1""",220 lbs,2,West Virginia,Panthers
+2,P.J. Walker6,QB,25,"5' 11""",212 lbs,1,Temple,Panthers
+3,Reggie Bonnafon39,RB,24,"6' 0""",215 lbs,2,Louisville,Panthers
+4,Mike Davis27,RB,27,"5' 9""",220 lbs,6,South Carolina,Panthers
+5,Christian McCaffrey22,RB,23,"5' 11""",205 lbs,4,Stanford,Panthers
+6,Marcus Murphy34,RB,28,"5' 9""",195 lbs,3,Missouri,Panthers
+7,Jordan Scarlett20,RB,24,"5' 11""",210 lbs,2,Florida,Panthers
+8,Rodney Smith,RB,24,"5' 11""",210 lbs,R,Minnesota,Panthers
+9,Alex Armah40,FB,25,"6' 2""",255 lbs,4,West Georgia,Panthers
+10,Robby Anderson11,WR,26,"6' 3""",190 lbs,5,Temple,Panthers
+11,Omar Bayless7,WR,23,"6' 3""",207 lbs,R,Arkansas State,Panthers
+12,Pharoh Cooper14,WR,25,"5' 11""",208 lbs,5,South Carolina,Panthers
+13,TreVontae Hights,WR,--,"6' 3""",195 lbs,R,TCU,Panthers
+14,Ishmael Hyman13,WR,24,"6' 0""",196 lbs,1,James Madison,Panthers
+15,Damion Jeanpiere Jr.83,WR,23,"6' 1""",185 lbs,1,Nicholls State,Panthers
+16,Keith Kirkwood19,WR,25,"6' 3""",210 lbs,3,Temple,Panthers
+17,DJ Moore12,WR,23,"6' 0""",210 lbs,3,Maryland,Panthers
+18,Seth Roberts15,WR,29,"6' 2""",195 lbs,6,West Alabama,Panthers
+19,Curtis Samuel10,WR,23,"5' 11""",195 lbs,4,Ohio State,Panthers
+20,DeAndrew White18,WR,28,"6' 0""",195 lbs,3,Alabama,Panthers
+21,Brandon Zylstra16,WR,27,"6' 2""",215 lbs,3,Concordia College (MN),Panthers
+22,Seth DeValve87,TE,27,"6' 3""",245 lbs,5,Princeton,Panthers
+23,Temarrick Hemingway84,TE,26,"6' 5""",245 lbs,3,South Carolina State,Panthers
+24,Chris Manhertz82,TE,28,"6' 6""",255 lbs,5,Canisius,Panthers
+25,Giovanni Ricci,TE,23,"6' 3""",240 lbs,R,Western Michigan,Panthers
+26,Cam Sutton15,TE,--,"6' 6""",226 lbs,R,Fresno State,Panthers
+27,Ian Thomas80,TE,23,"6' 4""",260 lbs,3,Indiana,Panthers
+28,Colin Thompson82,TE,26,"6' 4""",257 lbs,1,Temple,Panthers
+29,Tyler Larsen69,C,28,"6' 4""",325 lbs,5,Utah State,Panthers
+30,Frederick Mauigoa,C,--,"6' 4""",310 lbs,R,Washington State,Panthers
+31,Matt Paradis61,C,30,"6' 3""",300 lbs,6,Boise State,Panthers
+32,Sam Tecklenburg,C,--,"6' 4""",310 lbs,R,Baylor,Panthers
+33,Mike Horton,G,--,"6' 4""",325 lbs,R,Auburn,Panthers
+34,John Miller67,G,26,"6' 3""",315 lbs,6,Louisville,Panthers
+35,Chris Reed64,G,27,"6' 4""",320 lbs,5,Minnesota State-Mankato,Panthers
+36,Michael Schofield III75,G,29,"6' 6""",301 lbs,7,Michigan,Panthers
+37,Branden Bowen,OT,23,"6' 7""",315 lbs,R,Ohio State,Panthers
+38,Juwann Bushell-Beatty,OT,23,"6' 5""",333 lbs,R,Michigan,Panthers
+39,Dennis Daley65,OT,23,"6' 6""",325 lbs,2,South Carolina,Panthers
+40,Matt Kaskey63,OT,23,"6' 7""",325 lbs,1,Dartmouth,Panthers
+41,Greg Little74,OT,22,"6' 5""",310 lbs,2,Ole Miss,Panthers
+42,Tyler Marz68,OT,27,"6' 7""",316 lbs,3,Wisconsin,Panthers
+43,Aaron Monteiro62,OT,23,"6' 7""",320 lbs,1,Boston College,Panthers
+44,Taylor Moton72,OT,26,"6' 5""",325 lbs,4,Western Michigan,Panthers
+45,Russell Okung76,OT,31,"6' 5""",310 lbs,11,Oklahoma State,Panthers
+0,Drew Brees9,QB,41,"6' 0""",209 lbs,20,Purdue,Saints
+1,Taysom Hill7,QB,29,"6' 2""",221 lbs,4,BYU,Saints
+2,Tommy Stevens2,QB,23,"6' 5""",235 lbs,R,Mississippi State,Saints
+3,Jameis Winston,QB,26,"6' 4""",231 lbs,6,Florida State,Saints
+4,Tony Jones Jr.,RB,22,"5' 11""",224 lbs,R,Notre Dame,Saints
+5,Alvin Kamara41,RB,24,"5' 10""",215 lbs,4,Tennessee,Saints
+6,Latavius Murray28,RB,30,"6' 3""",230 lbs,8,UCF,Saints
+7,Dwayne Washington24,RB,26,"6' 1""",223 lbs,5,Washington,Saints
+8,Michael Burton32,FB,28,"6' 0""",240 lbs,6,Rutgers,Saints
+9,Ricky Ortiz30,FB,26,"6' 0""",236 lbs,2,Oregon State,Saints
+10,Emmanuel Butler17,WR,23,"6' 4""",220 lbs,1,Northern Arizona,Saints
+11,Marquez Callaway,WR,--,"6' 2""",204 lbs,R,Tennessee,Saints
+12,Deonte Harris11,WR,22,"5' 6""",170 lbs,2,Assumption,Saints
+13,Maurice Harris16,WR,27,"6' 3""",200 lbs,3,California,Saints
+14,Krishawn Hogan81,WR,24,"6' 3""",217 lbs,3,Marian,Saints
+15,Lil'Jordan Humphrey84,WR,22,"6' 4""",225 lbs,2,Texas,Saints
+16,Juwan Johnson6,WR,--,"6' 4""",231 lbs,R,Oregon,Saints
+17,Tommylee Lewis15,WR,27,"5' 7""",168 lbs,3,Northern Illinois,Saints
+18,Taquan Mizzell44,WR,26,"5' 10""",185 lbs,3,Virginia,Saints
+19,Emmanuel Sanders17,WR,33,"5' 11""",180 lbs,11,SMU,Saints
+20,Tre'Quan Smith10,WR,24,"6' 2""",210 lbs,3,UCF,Saints
+21,Michael Thomas13,WR,27,"6' 3""",212 lbs,5,Ohio State,Saints
+22,Tim White14,WR,25,"5' 10""",185 lbs,2,Arizona State,Saints
+23,Jared Cook87,TE,33,"6' 5""",254 lbs,12,South Carolina,Saints
+24,Garrett Griffin45,TE,26,"6' 4""",240 lbs,2,Air Force,Saints
+25,Josh Hill89,TE,29,"6' 5""",250 lbs,8,Idaho State,Saints
+26,Adam Trautman82,TE,23,"6' 5""",253 lbs,R,Dayton,Saints
+27,Jason Vander Laan86,TE,27,"6' 3""",245 lbs,3,Ferris State,Saints
+28,Cole Wick85,TE,26,"6' 6""",257 lbs,3,Incarnate Word,Saints
+29,Will Clapp64,C,24,"6' 5""",311 lbs,3,LSU,Saints
+30,Nick Easton62,C,27,"6' 3""",303 lbs,6,Harvard,Saints
+31,Erik McCoy78,C,22,"6' 4""",303 lbs,2,Texas A&M,Saints
+32,Cesar Ruiz51,C,20,"6' 4""",319 lbs,R,Michigan,Saints
+33,Cameron Tom63,C,24,"6' 4""",300 lbs,4,Southern Miss,Saints
+34,Adrian Magee,G,23,"6' 4""",343 lbs,R,LSU,Saints
+35,Jordan Steckler,G,--,"6' 5""",305 lbs,R,Northern Illinois,Saints
+36,Larry Warford67,G,28,"6' 3""",317 lbs,8,Kentucky,Saints
+37,Terron Armstead72,OT,28,"6' 5""",304 lbs,8,Arkansas-Pine Bluff,Saints
+38,Ethan Greenidge73,OT,22,"6' 4""",335 lbs,2,Villanova,Saints
+39,Derrick Kelly II68,OT,24,"6' 5""",320 lbs,1,Florida State,Saints
+40,Darrin Paulo,OT,--,"6' 5""",315 lbs,R,Utah,Saints
+41,Andrus Peat75,OT,26,"6' 7""",316 lbs,6,Stanford,Saints
+42,Ryan Ramczyk71,OT,26,"6' 6""",314 lbs,4,Wisconsin,Saints
+43,Calvin Throckmorton,OT,23,"6' 5""",309 lbs,R,Oregon,Saints
+0,Tom Brady12,QB,42,"6' 4""",225 lbs,21,Michigan,Buccaneers
+1,Blaine Gabbert11,QB,30,"6' 5""",235 lbs,10,Missouri,Buccaneers
+2,Ryan Griffin4,QB,30,"6' 5""",210 lbs,7,Tulane,Buccaneers
+3,Reid Sinnett7,QB,--,"6' 4""",225 lbs,R,San Diego,Buccaneers
+4,Raymond Calais43,RB,22,"5' 9""",185 lbs,R,Louisiana-Lafayette,Buccaneers
+5,Ronald Jones II27,RB,22,"5' 11""",208 lbs,3,USC,Buccaneers
+6,T.J. Logan22,RB,25,"5' 11""",195 lbs,4,North Carolina,Buccaneers
+7,Dare Ogunbowale44,RB,25,"5' 11""",205 lbs,2,Wisconsin,Buccaneers
+8,Ke'Shawn Vaughn30,RB,22,"5' 10""",205 lbs,R,Vanderbilt,Buccaneers
+9,Aca'Cedric Ware33,RB,--,"6' 0""",205 lbs,1,USC,Buccaneers
+10,Mike Evans13,WR,26,"6' 5""",231 lbs,7,Texas A&M,Buccaneers
+11,John Franklin19,WR,25,"6' 1""",186 lbs,1,Florida Atlantic,Buccaneers
+12,Chris Godwin14,WR,24,"6' 1""",209 lbs,4,Penn State,Buccaneers
+13,Cyril Grayson15,WR,26,"5' 9""",183 lbs,1,LSU,Buccaneers
+14,Tyler Johnson18,WR,21,"6' 2""",205 lbs,R,Minnesota,Buccaneers
+15,Jaydon Mickens85,WR,26,"5' 11""",170 lbs,3,Washington,Buccaneers
+16,Scotty Miller10,WR,22,"5' 9""",174 lbs,2,Bowling Green,Buccaneers
+17,Bryant Mitchell16,WR,27,"6' 2""",198 lbs,2,Northwestern State,Buccaneers
+18,Spencer Schnell83,WR,25,"5' 8""",178 lbs,1,Illinois State,Buccaneers
+19,Justin Watson17,WR,25,"6' 3""",215 lbs,3,Pennsylvania,Buccaneers
+20,Antony Auclair82,TE,26,"6' 6""",256 lbs,4,--,Buccaneers
+21,Cameron Brate84,TE,28,"6' 5""",245 lbs,6,Harvard,Buccaneers
+22,Rob Gronkowski87,TE,30,"6' 6""",268 lbs,10,Arizona,Buccaneers
+23,O.J. Howard80,TE,25,"6' 6""",251 lbs,4,Alabama,Buccaneers
+24,Tanner Hudson88,TE,25,"6' 5""",239 lbs,2,Southern Arkansas,Buccaneers
+25,Jordan Leggett81,TE,25,"6' 5""",258 lbs,4,Clemson,Buccaneers
+26,Codey McElroy86,TE,27,"6' 6""",255 lbs,1,Oklahoma State,Buccaneers
+27,Anthony Fabiano77,C,26,"6' 4""",303 lbs,1,Harvard,Buccaneers
+28,Ryan Jensen66,C,28,"6' 4""",319 lbs,7,Colorado State-Pueblo,Buccaneers
+29,Zach Shackelford56,C,--,"6' 4""",305 lbs,R,Texas,Buccaneers
+30,Zack Bailey61,G,24,"6' 5""",299 lbs,2,South Carolina,Buccaneers
+31,Alex Cappa65,G,25,"6' 6""",305 lbs,3,Humboldt State,Buccaneers
+32,Ali Marpet74,G,27,"6' 4""",307 lbs,6,Hobart,Buccaneers
+33,John Molchon,G,--,"6' 5""",318 lbs,R,Boise State,Buccaneers
+34,Aaron Stinnie64,G,26,"6' 3""",312 lbs,3,James Madison,Buccaneers
+35,Joe Haeg73,OT,27,"6' 6""",298 lbs,5,North Dakota State,Buccaneers
+36,Brad Seaton62,OT,26,"6' 9""",330 lbs,1,Villanova,Buccaneers
+37,Donovan Smith76,OT,26,"6' 6""",338 lbs,6,Penn State,Buccaneers
+38,Tristan Wirfs78,OT,21,"6' 5""",322 lbs,R,Iowa,Buccaneers
+0,Drew Anderson3,QB,24,"6' 4""",221 lbs,1,Murray State,Cardinals
+1,Brett Hundley7,QB,26,"6' 3""",226 lbs,6,UCLA,Cardinals
+2,Kyler Murray1,QB,22,"5' 10""",207 lbs,2,Oklahoma,Cardinals
+3,Chris Streveler15,QB,25,"6' 1""",211 lbs,1,South Dakota,Cardinals
+4,Eno Benjamin26,RB,21,"5' 9""",195 lbs,R,Arizona State,Cardinals
+5,Kenyan Drake41,RB,26,"6' 1""",211 lbs,5,Alabama,Cardinals
+6,Chase Edmonds29,RB,24,"5' 9""",205 lbs,3,Fordham,Cardinals
+7,D.J. Foster37,RB,26,"6' 0""",205 lbs,5,Arizona State,Cardinals
+8,Sirgeo Hoffman,RB,--,"6' 0""",215 lbs,R,Portland State,Cardinals
+9,Jonathan Ward5,RB,--,"5' 11""",195 lbs,R,Central Michigan,Cardinals
+10,Jermiah Braswell,WR,--,"6' 0""",210 lbs,R,Youngstown State,Cardinals
+11,Hakeem Butler18,WR,23,"6' 5""",227 lbs,2,Iowa State,Cardinals
+12,Johnnie Dixon12,WR,25,"5' 11""",198 lbs,1,Ohio State,Cardinals
+13,Larry Fitzgerald11,WR,36,"6' 3""",218 lbs,17,Pittsburgh,Cardinals
+14,DeAndre Hopkins10,WR,27,"6' 1""",212 lbs,7,Clemson,Cardinals
+15,Andy Isabella89,WR,23,"5' 9""",188 lbs,2,Massachusetts,Cardinals
+16,KeeSean Johnson19,WR,23,"6' 1""",201 lbs,2,Fresno State,Cardinals
+17,Christian Kirk13,WR,23,"5' 11""",200 lbs,3,Texas A&M,Cardinals
+18,Shane Leatherbury,WR,--,"5' 11""",190 lbs,R,Towson,Cardinals
+19,Rashad Medaris,WR,--,"5' 11""",178 lbs,R,Cincinnati,Cardinals
+20,Devin Phelps,WR,--,"6' 2""",190 lbs,R,Shepherd,Cardinals
+21,A.J. Richardson83,WR,24,"6' 0""",212 lbs,1,Boise State,Cardinals
+22,Trent Sherfield16,WR,24,"6' 1""",219 lbs,3,Vanderbilt,Cardinals
+23,JoJo Ward,WR,--,"5' 9""",175 lbs,R,Hawai'i',Cardinals
+24,Dan Arnold82,TE,25,"6' 6""",220 lbs,4,Wisconsin-Platteville,Cardinals
+25,Ryan Becker,TE,--,"6' 5""",248 lbs,R,SMU,Cardinals
+26,Darrell Daniels81,TE,25,"6' 3""",256 lbs,4,Washington,Cardinals
+27,Parker Houston,TE,22,"6' 3""",250 lbs,R,San Diego State,Cardinals
+28,Maxx Williams87,TE,26,"6' 4""",252 lbs,6,Minnesota,Cardinals
+29,Mason Cole52,C,24,"6' 5""",307 lbs,3,Michigan,Cardinals
+30,Lamont Gaillard65,C,24,"6' 3""",305 lbs,2,Georgia,Cardinals
+31,Jackson Dennis,G,--,"6' 7""",308 lbs,R,Holy Cross,Cardinals
+32,Andrew Dickinson,G,22,"6' 3""",308 lbs,R,Findlay,Cardinals
+33,Max Garcia73,G,28,"6' 4""",309 lbs,6,Florida,Cardinals
+34,Steven Gonzalez,G,22,"6' 4""",341 lbs,R,Penn State,Cardinals
+35,Sam Jones70,G,24,"6' 5""",290 lbs,2,Arizona State,Cardinals
+36,Justin Pugh67,G,29,"6' 5""",311 lbs,8,Syracuse,Cardinals
+37,J.R. Sweezy64,G,31,"6' 5""",310 lbs,9,North Carolina State,Cardinals
+38,Jake Benzinger,OT,23,"6' 7""",295 lbs,R,Wake Forest,Cardinals
+39,Marcus Gilbert76,OT,32,"6' 6""",330 lbs,10,Florida,Cardinals
+40,D.J. Humphries74,OT,26,"6' 5""",307 lbs,6,Florida,Cardinals
+41,Josh Jones79,OT,22,"6' 5""",310 lbs,R,Houston,Cardinals
+42,Joshua Miles66,OT,24,"6' 5""",325 lbs,2,Morgan State,Cardinals
+43,Justin Murray71,OT,27,"6' 5""",315 lbs,3,Cincinnati,Cardinals
+44,Brett Toth78,OT,23,"6' 6""",304 lbs,2,Army,Cardinals
+0,Jared Goff16,QB,25,"6' 4""",222 lbs,5,California,Rams
+1,Josh Love12,QB,23,"6' 2""",205 lbs,R,San Jose State,Rams
+2,Bryce Perkins3,QB,--,"6' 3""",215 lbs,R,Virginia,Rams
+3,John Wolford9,QB,24,"6' 1""",200 lbs,1,Wake Forest,Rams
+4,Cam Akers23,RB,20,"5' 11""",212 lbs,R,Florida State,Rams
+5,Malcolm Brown34,RB,26,"5' 11""",222 lbs,5,Texas,Rams
+6,James Gilbert,RB,24,"5' 9""",198 lbs,R,Kansas State,Rams
+7,Darrell Henderson Jr.27,RB,22,"5' 8""",208 lbs,2,Memphis,Rams
+8,Xavier Jones,RB,--,"5' 11""",208 lbs,R,SMU,Rams
+9,John Kelly42,RB,23,"5' 10""",205 lbs,2,Tennessee,Rams
+10,Greg Dortch87,WR,21,"5' 7""",175 lbs,1,Wake Forest,Rams
+11,Earnest Edwards,WR,--,"5' 10""",175 lbs,R,Maine,Rams
+12,Trishton Jackson86,WR,22,"6' 1""",191 lbs,R,Syracuse,Rams
+13,Van Jefferson12,WR,23,"6' 2""",197 lbs,R,Florida,Rams
+14,J.J. Koski6,WR,--,"6' 1""",195 lbs,R,Cal Poly-Pomona,Rams
+15,Cooper Kupp18,WR,26,"6' 2""",208 lbs,4,Eastern Washington,Rams
+16,Brandon Polk,WR,--,"5' 9""",175 lbs,R,James Madison,Rams
+17,Josh Reynolds83,WR,25,"6' 3""",196 lbs,4,Texas A&M,Rams
+18,Nsimba Webster14,WR,24,"5' 10""",180 lbs,2,Eastern Washington,Rams
+19,Easop Winston Jr.,WR,--,"6' 0""",192 lbs,R,Washington State,Rams
+20,Robert Woods17,WR,28,"6' 0""",195 lbs,8,USC,Rams
+21,Kendall Blanton86,TE,24,"6' 6""",262 lbs,1,Missouri,Rams
+22,Gerald Everett81,TE,25,"6' 3""",240 lbs,4,South Alabama,Rams
+23,Tyler Higbee89,TE,27,"6' 6""",255 lbs,5,Western Kentucky,Rams
+24,Brycen Hopkins88,TE,23,"6' 4""",245 lbs,R,Purdue,Rams
+25,Johnny Mundt82,TE,25,"6' 4""",233 lbs,3,Oregon,Rams
+26,Ethan Wolf84,TE,24,"6' 6""",252 lbs,1,Tennessee,Rams
+27,Brian Allen55,C,24,"6' 2""",303 lbs,3,Michigan State,Rams
+28,Austin Blythe66,C,27,"6' 3""",298 lbs,5,Iowa,Rams
+29,Austin Corbett63,C,24,"6' 4""",306 lbs,3,Nevada,Rams
+30,Coleman Shelton65,C,24,"6' 5""",299 lbs,2,Washington,Rams
+31,Nate Trewyn60,C,23,"6' 4""",315 lbs,1,Wisc. Whitewater,Rams
+32,Tremayne Anchrum76,G,21,"6' 2""",310 lbs,R,Clemson,Rams
+33,Chandler Brewer67,G,22,"6' 6""",320 lbs,2,Middle Tennessee,Rams
+34,Jamil Demby64,G,23,"6' 5""",321 lbs,2,Maine,Rams
+35,Jeremiah Kolone61,G,25,"6' 3""",316 lbs,1,San Jose State,Rams
+36,Cohl Cabral,OT,22,"6' 5""",304 lbs,R,Arizona State,Rams
+37,David Edwards73,OT,23,"6' 6""",308 lbs,2,Wisconsin,Rams
+38,Bobby Evans71,OT,23,"6' 4""",312 lbs,2,Oklahoma,Rams
+39,Rob Havenstein79,OT,27,"6' 8""",330 lbs,6,Wisconsin,Rams
+40,Joe Noteboom70,OT,24,"6' 5""",321 lbs,3,TCU,Rams
+41,Andrew Whitworth77,OT,38,"6' 7""",330 lbs,15,LSU,Rams
+0,C.J. Beathard3,QB,26,"6' 2""",215 lbs,4,Iowa,49ers
+1,Jimmy Garoppolo10,QB,28,"6' 2""",225 lbs,7,Eastern Illinois,49ers
+2,Nick Mullens4,QB,25,"6' 1""",210 lbs,3,Southern Miss,49ers
+3,Broc Rutter5,QB,--,"6' 2""",204 lbs,R,North Central,49ers
+4,Salvon Ahmed,RB,21,"5' 11""",196 lbs,R,Washington,49ers
+5,Tevin Coleman26,RB,27,"6' 1""",210 lbs,6,Indiana,49ers
+6,JaMycal Hasty38,RB,23,"5' 8""",205 lbs,R,Baylor,49ers
+7,Jerick McKinnon28,RB,27,"5' 9""",205 lbs,7,Georgia Southern,49ers
+8,Raheem Mostert31,RB,28,"5' 10""",205 lbs,6,Purdue,49ers
+9,Jeff Wilson Jr.30,RB,24,"6' 0""",213 lbs,3,North Texas,49ers
+10,Josh Hokit49,FB,--,"6' 1""",225 lbs,R,Fresno State,49ers
+11,Kyle Juszczyk44,FB,29,"6' 1""",235 lbs,8,Harvard,49ers
+12,Brandon Aiyuk11,WR,22,"6' 0""",201 lbs,R,Arizona State,49ers
+13,Travis Benjamin17,WR,30,"5' 10""",175 lbs,9,Miami (FL),49ers
+14,Kendrick Bourne84,WR,24,"6' 1""",190 lbs,4,Eastern Washington,49ers
+15,Chris Finke7,WR,24,"5' 10""",184 lbs,R,Notre Dame,49ers
+16,Jalen Hurd14,WR,24,"6' 4""",230 lbs,2,Baylor,49ers
+17,Richie James Jr.13,WR,24,"5' 9""",185 lbs,3,Middle Tennessee,49ers
+18,Jauan Jennings81,WR,22,"6' 3""",208 lbs,R,Tennessee,49ers
+19,Dante Pettis18,WR,24,"6' 1""",195 lbs,3,Washington,49ers
+20,Shawn Poindexter1,WR,24,"6' 5""",213 lbs,2,Arizona,49ers
+21,Deebo Samuel19,WR,24,"6' 0""",215 lbs,2,South Carolina,49ers
+22,Trent Taylor15,WR,26,"5' 8""",180 lbs,4,Louisiana Tech,49ers
+23,Chris Thompson2,WR,25,"6' 0""",175 lbs,2,Florida,49ers
+24,Ross Dwelley82,TE,25,"6' 5""",235 lbs,3,San Diego,49ers
+25,Chase Harrell83,TE,22,"6' 4""",249 lbs,R,Arkansas,49ers
+26,Daniel Helm88,TE,25,"6' 4""",251 lbs,1,Duke,49ers
+27,George Kittle85,TE,26,"6' 4""",250 lbs,4,Iowa,49ers
+28,Charlie Woerner89,TE,22,"6' 5""",245 lbs,R,Georgia,49ers
+29,Jake Brendel64,C,27,"6' 4""",299 lbs,3,UCLA,49ers
+30,Weston Richburg58,C,28,"6' 4""",295 lbs,7,Colorado State,49ers
+31,Kofi Amichia65,G,25,"6' 3""",305 lbs,1,South Florida,49ers
+32,Tom Compton66,G,30,"6' 6""",315 lbs,8,South Dakota,49ers
+33,Ben Garland63,G,32,"6' 5""",304 lbs,7,Air Force,49ers
+34,Ross Reynolds76,G,24,"6' 4""",300 lbs,1,Iowa,49ers
+35,Laken Tomlinson75,G,28,"6' 3""",315 lbs,6,Duke,49ers
+36,Daniel Brunskill60,OT,26,"6' 5""",300 lbs,2,San Diego State,49ers
+37,Shon Coleman78,OT,28,"6' 5""",310 lbs,5,Auburn,49ers
+38,Jaryd Jones-Smith71,OT,24,"6' 7""",320 lbs,1,Pittsburgh,49ers
+39,Mike McGlinchey69,OT,25,"6' 8""",310 lbs,3,Notre Dame,49ers
+40,Colton McKivitz68,OT,23,"6' 6""",304 lbs,R,West Virginia,49ers
+41,Justin Skule67,OT,23,"6' 6""",315 lbs,2,Vanderbilt,49ers
+42,Leonard Wester61,OT,27,"6' 6""",305 lbs,3,Missouri Western,49ers
+43,Trent Williams71,OT,31,"6' 5""",320 lbs,10,Oklahoma,49ers
+0,Anthony Gordon18,QB,23,"6' 2""",199 lbs,R,Washington State,Seahawks
+1,Russell Wilson3,QB,31,"5' 11""",215 lbs,9,Wisconsin,Seahawks
+2,Patrick Carr,RB,24,"5' 10""",205 lbs,R,Houston,Seahawks
+3,Chris Carson32,RB,25,"5' 11""",222 lbs,4,Oklahoma State,Seahawks
+4,Adam Choice38,RB,24,"5' 8""",210 lbs,2,Clemson,Seahawks
+5,DeeJay Dallas13,RB,21,"5' 10""",210 lbs,R,Miami (FL),Seahawks
+6,Travis Homer25,RB,21,"5' 10""",202 lbs,2,Miami (FL),Seahawks
+7,Anthony Jones2,RB,--,"5' 11""",215 lbs,R,Florida International,Seahawks
+8,Rashaad Penny20,RB,24,"5' 11""",220 lbs,3,San Diego State,Seahawks
+9,Nick Bellore44,FB,30,"6' 1""",250 lbs,10,Central Michigan,Seahawks
+10,Seth Dawkins,WR,--,"6' 3""",218 lbs,R,Louisville,Seahawks
+11,Phillip Dorsett II11,WR,27,"5' 10""",192 lbs,6,Miami (FL),Seahawks
+12,Aaron Fuller,WR,22,"5' 11""",188 lbs,R,Washington,Seahawks
+13,Penny Hart19,WR,23,"5' 8""",180 lbs,1,Georgia State,Seahawks
+14,Tyler Lockett16,WR,27,"5' 10""",182 lbs,6,Kansas State,Seahawks
+15,DK Metcalf14,WR,22,"6' 4""",229 lbs,2,Ole Miss,Seahawks
+16,David Moore83,WR,25,"6' 0""",215 lbs,4,East Central,Seahawks
+17,Stephen Sullivan10,WR,23,"6' 5""",242 lbs,R,LSU,Seahawks
+18,Freddie Swain16,WR,21,"6' 0""",199 lbs,R,Florida,Seahawks
+19,Cody Thompson81,WR,24,"6' 2""",205 lbs,1,Toledo,Seahawks
+20,John Ursua15,WR,26,"5' 9""",182 lbs,2,Hawai'i',Seahawks
+21,Will Dissly89,TE,23,"6' 4""",265 lbs,3,Washington,Seahawks
+22,Jacob Hollister48,TE,26,"6' 4""",245 lbs,4,Wyoming,Seahawks
+23,Justin Johnson86,TE,23,"6' 3""",235 lbs,2,Mississippi State,Seahawks
+24,Tyler Mabry,TE,--,"6' 4""",248 lbs,R,Maryland,Seahawks
+25,Greg Olsen88,TE,35,"6' 5""",255 lbs,14,Miami (FL),Seahawks
+26,Colby Parkinson84,TE,21,"6' 7""",251 lbs,R,Stanford,Seahawks
+27,Luke Willson82,TE,30,"6' 5""",255 lbs,8,Rice,Seahawks
+28,B.J. Finney67,C,28,"6' 4""",318 lbs,5,Kansas State,Seahawks
+29,Kyle Fuller61,C,26,"6' 5""",320 lbs,2,Baylor,Seahawks
+30,Joey Hunt53,C,26,"6' 2""",299 lbs,4,TCU,Seahawks
+31,Phil Haynes60,G,24,"6' 4""",322 lbs,2,Wake Forest,Seahawks
+32,Mike Iupati70,G,32,"6' 5""",331 lbs,11,Idaho,Seahawks
+33,Demetrius Knox63,G,24,"6' 4""",314 lbs,2,Ohio State,Seahawks
+34,Damien Lewis68,G,23,"6' 3""",332 lbs,R,LSU,Seahawks
+35,Kahlil McKenzie62,G,23,"6' 3""",320 lbs,2,Tennessee,Seahawks
+36,Ethan Pocic77,G,24,"6' 6""",320 lbs,4,LSU,Seahawks
+37,Jordan Roos64,G,26,"6' 3""",302 lbs,3,Purdue,Seahawks
+38,Jordan Simmons66,G,25,"6' 4""",339 lbs,3,USC,Seahawks
+39,Chance Warmack65,G,28,"6' 2""",323 lbs,7,Alabama,Seahawks
+40,Duane Brown76,OT,34,"6' 4""",315 lbs,13,Virginia Tech,Seahawks
+41,Tommy Champion,OT,23,"6' 5""",320 lbs,R,Mississippi State,Seahawks
+42,Jamarco Jones73,OT,23,"6' 4""",293 lbs,3,Ohio State,Seahawks
+43,Cedric Ogbuehi74,OT,28,"6' 5""",308 lbs,6,Texas A&M,Seahawks
+44,Brandon Shell72,OT,28,"6' 5""",324 lbs,5,South Carolina,Seahawks
+45,Chad Wheeler75,OT,26,"6' 7""",318 lbs,3,USC,Seahawks
