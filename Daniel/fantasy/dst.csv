@@ -1,0 +1,225 @@
+,Rank,Player,SACK,INT,FR,FF,DEF TD,SFTY,SPC TD,G,FPTS,FPTS/G,OWN,Year
+0,1,Arizona Cardinals (ARI),0,0,0,0,0,0,0,0,0,0,1.2%,2013
+1,2,Minnesota Vikings (MIN),0,0,0,0,0,0,0,0,0,0,73.1%,2013
+2,3,Tennessee Titans (TEN),0,0,0,0,0,0,0,0,0,0,6.9%,2013
+3,4,Tampa Bay Buccaneers (TB),0,0,0,0,0,0,0,0,0,0,23.4%,2013
+4,5,Los Angeles Rams (LAR),0,0,0,0,0,0,0,0,0,0,34.8%,2013
+5,6,San Francisco 49ers (SF),0,0,0,0,0,0,0,0,0,0,99.3%,2013
+6,7,Seattle Seahawks (SEA),0,0,0,0,0,0,0,0,0,0,5.7%,2013
+7,8,Los Angeles Chargers (LAC),0,0,0,0,0,0,0,0,0,0,15.2%,2013
+8,9,Pittsburgh Steelers (PIT),0,0,0,0,0,0,0,0,0,0,98.6%,2013
+9,10,Philadelphia Eagles (PHI),0,0,0,0,0,0,0,0,0,0,5.2%,2013
+10,11,Las Vegas Raiders (LV),0,0,0,0,0,0,0,0,0,0,6.0%,2013
+11,12,New York Jets (NYJ),0,0,0,0,0,0,0,0,0,0,56.1%,2013
+12,13,New York Giants (NYG),0,0,0,0,0,0,0,0,0,0,0.7%,2013
+13,14,New Orleans Saints (NO),0,0,0,0,0,0,0,0,0,0,66.6%,2013
+14,15,New England Patriots (NE),0,0,0,0,0,0,0,0,0,0,97.2%,2013
+15,16,Miami Dolphins (MIA),0,0,0,0,0,0,0,0,0,0,2.2%,2013
+16,17,Atlanta Falcons (ATL),0,0,0,0,0,0,0,0,0,0,0.9%,2013
+17,18,Kansas City Chiefs (KC),0,0,0,0,0,0,0,0,0,0,26.1%,2013
+18,19,Jacksonville Jaguars (JAC),0,0,0,0,0,0,0,0,0,0,1.1%,2013
+19,20,Indianapolis Colts (IND),0,0,0,0,0,0,0,0,0,0,72.1%,2013
+20,21,Houston Texans (HOU),0,0,0,0,0,0,0,0,0,0,2.6%,2013
+21,22,Green Bay Packers (GB),0,0,0,0,0,0,0,0,0,0,4.0%,2013
+22,23,Detroit Lions (DET),0,0,0,0,0,0,0,0,0,0,1.4%,2013
+23,24,Denver Broncos (DEN),0,0,0,0,0,0,0,0,0,0,62.2%,2013
+24,25,Dallas Cowboys (DAL),0,0,0,0,0,0,0,0,0,0,20.2%,2013
+25,26,Cleveland Browns (CLE),0,0,0,0,0,0,0,0,0,0,2.7%,2013
+26,27,Cincinnati Bengals (CIN),0,0,0,0,0,0,0,0,0,0,1.5%,2013
+27,28,Chicago Bears (CHI),0,0,0,0,0,0,0,0,0,0,80.0%,2013
+28,29,Carolina Panthers (CAR),0,0,0,0,0,0,0,0,0,0,1.4%,2013
+29,30,Buffalo Bills (BUF),0,0,0,0,0,0,0,0,0,0,97.1%,2013
+30,31,Baltimore Ravens (BAL),0,0,0,0,0,0,0,0,0,0,97.0%,2013
+31,32,Washington Redskins (WAS),0,0,0,0,0,0,0,0,0,0,2.1%,2013
+0,1,Arizona Cardinals (ARI),0,0,0,0,0,0,0,0,0,0,1.2%,2014
+1,2,Minnesota Vikings (MIN),0,0,0,0,0,0,0,0,0,0,73.1%,2014
+2,3,Tennessee Titans (TEN),0,0,0,0,0,0,0,0,0,0,6.9%,2014
+3,4,Tampa Bay Buccaneers (TB),0,0,0,0,0,0,0,0,0,0,23.4%,2014
+4,5,Los Angeles Rams (LAR),0,0,0,0,0,0,0,0,0,0,34.8%,2014
+5,6,San Francisco 49ers (SF),0,0,0,0,0,0,0,0,0,0,99.3%,2014
+6,7,Seattle Seahawks (SEA),0,0,0,0,0,0,0,0,0,0,5.7%,2014
+7,8,Los Angeles Chargers (LAC),0,0,0,0,0,0,0,0,0,0,15.2%,2014
+8,9,Pittsburgh Steelers (PIT),0,0,0,0,0,0,0,0,0,0,98.6%,2014
+9,10,Philadelphia Eagles (PHI),0,0,0,0,0,0,0,0,0,0,5.2%,2014
+10,11,Las Vegas Raiders (LV),0,0,0,0,0,0,0,0,0,0,6.0%,2014
+11,12,New York Jets (NYJ),0,0,0,0,0,0,0,0,0,0,56.1%,2014
+12,13,New York Giants (NYG),0,0,0,0,0,0,0,0,0,0,0.7%,2014
+13,14,New Orleans Saints (NO),0,0,0,0,0,0,0,0,0,0,66.6%,2014
+14,15,New England Patriots (NE),0,0,0,0,0,0,0,0,0,0,97.2%,2014
+15,16,Miami Dolphins (MIA),0,0,0,0,0,0,0,0,0,0,2.2%,2014
+16,17,Atlanta Falcons (ATL),0,0,0,0,0,0,0,0,0,0,0.9%,2014
+17,18,Kansas City Chiefs (KC),0,0,0,0,0,0,0,0,0,0,26.1%,2014
+18,19,Jacksonville Jaguars (JAC),0,0,0,0,0,0,0,0,0,0,1.1%,2014
+19,20,Indianapolis Colts (IND),0,0,0,0,0,0,0,0,0,0,72.1%,2014
+20,21,Houston Texans (HOU),0,0,0,0,0,0,0,0,0,0,2.6%,2014
+21,22,Green Bay Packers (GB),0,0,0,0,0,0,0,0,0,0,4.0%,2014
+22,23,Detroit Lions (DET),0,0,0,0,0,0,0,0,0,0,1.4%,2014
+23,24,Denver Broncos (DEN),0,0,0,0,0,0,0,0,0,0,62.2%,2014
+24,25,Dallas Cowboys (DAL),0,0,0,0,0,0,0,0,0,0,20.2%,2014
+25,26,Cleveland Browns (CLE),0,0,0,0,0,0,0,0,0,0,2.7%,2014
+26,27,Cincinnati Bengals (CIN),0,0,0,0,0,0,0,0,0,0,1.5%,2014
+27,28,Chicago Bears (CHI),0,0,0,0,0,0,0,0,0,0,80.0%,2014
+28,29,Carolina Panthers (CAR),0,0,0,0,0,0,0,0,0,0,1.4%,2014
+29,30,Buffalo Bills (BUF),0,0,0,0,0,0,0,0,0,0,97.1%,2014
+30,31,Baltimore Ravens (BAL),0,0,0,0,0,0,0,0,0,0,97.0%,2014
+31,32,Washington Redskins (WAS),0,0,0,0,0,0,0,0,0,0,2.1%,2014
+0,1,Arizona Cardinals (ARI),0,0,0,0,0,0,0,0,0,0,1.2%,2015
+1,2,Minnesota Vikings (MIN),0,0,0,0,0,0,0,0,0,0,73.1%,2015
+2,3,Tennessee Titans (TEN),0,0,0,0,0,0,0,0,0,0,6.9%,2015
+3,4,Tampa Bay Buccaneers (TB),0,0,0,0,0,0,0,0,0,0,23.4%,2015
+4,5,Los Angeles Rams (LAR),0,0,0,0,0,0,0,0,0,0,34.8%,2015
+5,6,San Francisco 49ers (SF),0,0,0,0,0,0,0,0,0,0,99.3%,2015
+6,7,Seattle Seahawks (SEA),0,0,0,0,0,0,0,0,0,0,5.7%,2015
+7,8,Los Angeles Chargers (LAC),0,0,0,0,0,0,0,0,0,0,15.2%,2015
+8,9,Pittsburgh Steelers (PIT),0,0,0,0,0,0,0,0,0,0,98.6%,2015
+9,10,Philadelphia Eagles (PHI),0,0,0,0,0,0,0,0,0,0,5.2%,2015
+10,11,Las Vegas Raiders (LV),0,0,0,0,0,0,0,0,0,0,6.0%,2015
+11,12,New York Jets (NYJ),0,0,0,0,0,0,0,0,0,0,56.1%,2015
+12,13,New York Giants (NYG),0,0,0,0,0,0,0,0,0,0,0.7%,2015
+13,14,New Orleans Saints (NO),0,0,0,0,0,0,0,0,0,0,66.6%,2015
+14,15,New England Patriots (NE),0,0,0,0,0,0,0,0,0,0,97.2%,2015
+15,16,Miami Dolphins (MIA),0,0,0,0,0,0,0,0,0,0,2.2%,2015
+16,17,Atlanta Falcons (ATL),0,0,0,0,0,0,0,0,0,0,0.9%,2015
+17,18,Kansas City Chiefs (KC),0,0,0,0,0,0,0,0,0,0,26.1%,2015
+18,19,Jacksonville Jaguars (JAC),0,0,0,0,0,0,0,0,0,0,1.1%,2015
+19,20,Indianapolis Colts (IND),0,0,0,0,0,0,0,0,0,0,72.1%,2015
+20,21,Houston Texans (HOU),0,0,0,0,0,0,0,0,0,0,2.6%,2015
+21,22,Green Bay Packers (GB),0,0,0,0,0,0,0,0,0,0,4.0%,2015
+22,23,Detroit Lions (DET),0,0,0,0,0,0,0,0,0,0,1.4%,2015
+23,24,Denver Broncos (DEN),0,0,0,0,0,0,0,0,0,0,62.2%,2015
+24,25,Dallas Cowboys (DAL),0,0,0,0,0,0,0,0,0,0,20.2%,2015
+25,26,Cleveland Browns (CLE),0,0,0,0,0,0,0,0,0,0,2.7%,2015
+26,27,Cincinnati Bengals (CIN),0,0,0,0,0,0,0,0,0,0,1.5%,2015
+27,28,Chicago Bears (CHI),0,0,0,0,0,0,0,0,0,0,80.0%,2015
+28,29,Carolina Panthers (CAR),0,0,0,0,0,0,0,0,0,0,1.4%,2015
+29,30,Buffalo Bills (BUF),0,0,0,0,0,0,0,0,0,0,97.1%,2015
+30,31,Baltimore Ravens (BAL),0,0,0,0,0,0,0,0,0,0,97.0%,2015
+31,32,Washington Redskins (WAS),0,0,0,0,0,0,0,0,0,0,2.1%,2015
+0,1,Arizona Cardinals (ARI),0,0,0,0,0,0,0,0,0,0,1.2%,2016
+1,2,Minnesota Vikings (MIN),0,0,0,0,0,0,0,0,0,0,73.1%,2016
+2,3,Tennessee Titans (TEN),0,0,0,0,0,0,0,0,0,0,6.9%,2016
+3,4,Tampa Bay Buccaneers (TB),0,0,0,0,0,0,0,0,0,0,23.4%,2016
+4,5,Los Angeles Rams (LAR),0,0,0,0,0,0,0,0,0,0,34.8%,2016
+5,6,San Francisco 49ers (SF),0,0,0,0,0,0,0,0,0,0,99.3%,2016
+6,7,Seattle Seahawks (SEA),0,0,0,0,0,0,0,0,0,0,5.7%,2016
+7,8,Los Angeles Chargers (LAC),0,0,0,0,0,0,0,0,0,0,15.2%,2016
+8,9,Pittsburgh Steelers (PIT),0,0,0,0,0,0,0,0,0,0,98.6%,2016
+9,10,Philadelphia Eagles (PHI),0,0,0,0,0,0,0,0,0,0,5.2%,2016
+10,11,Las Vegas Raiders (LV),0,0,0,0,0,0,0,0,0,0,6.0%,2016
+11,12,New York Jets (NYJ),0,0,0,0,0,0,0,0,0,0,56.1%,2016
+12,13,New York Giants (NYG),0,0,0,0,0,0,0,0,0,0,0.7%,2016
+13,14,New Orleans Saints (NO),0,0,0,0,0,0,0,0,0,0,66.6%,2016
+14,15,New England Patriots (NE),0,0,0,0,0,0,0,0,0,0,97.2%,2016
+15,16,Miami Dolphins (MIA),0,0,0,0,0,0,0,0,0,0,2.2%,2016
+16,17,Atlanta Falcons (ATL),0,0,0,0,0,0,0,0,0,0,0.9%,2016
+17,18,Kansas City Chiefs (KC),0,0,0,0,0,0,0,0,0,0,26.1%,2016
+18,19,Jacksonville Jaguars (JAC),0,0,0,0,0,0,0,0,0,0,1.1%,2016
+19,20,Indianapolis Colts (IND),0,0,0,0,0,0,0,0,0,0,72.1%,2016
+20,21,Houston Texans (HOU),0,0,0,0,0,0,0,0,0,0,2.6%,2016
+21,22,Green Bay Packers (GB),0,0,0,0,0,0,0,0,0,0,4.0%,2016
+22,23,Detroit Lions (DET),0,0,0,0,0,0,0,0,0,0,1.4%,2016
+23,24,Denver Broncos (DEN),0,0,0,0,0,0,0,0,0,0,62.2%,2016
+24,25,Dallas Cowboys (DAL),0,0,0,0,0,0,0,0,0,0,20.2%,2016
+25,26,Cleveland Browns (CLE),0,0,0,0,0,0,0,0,0,0,2.7%,2016
+26,27,Cincinnati Bengals (CIN),0,0,0,0,0,0,0,0,0,0,1.5%,2016
+27,28,Chicago Bears (CHI),0,0,0,0,0,0,0,0,0,0,80.0%,2016
+28,29,Carolina Panthers (CAR),0,0,0,0,0,0,0,0,0,0,1.4%,2016
+29,30,Buffalo Bills (BUF),0,0,0,0,0,0,0,0,0,0,97.1%,2016
+30,31,Baltimore Ravens (BAL),0,0,0,0,0,0,0,0,0,0,97.0%,2016
+31,32,Washington Redskins (WAS),0,0,0,0,0,0,0,0,0,0,2.1%,2016
+0,1,Arizona Cardinals (ARI),0,0,0,0,0,0,0,0,0,0,1.2%,2017
+1,2,Minnesota Vikings (MIN),0,0,0,0,0,0,0,0,0,0,73.1%,2017
+2,3,Tennessee Titans (TEN),0,0,0,0,0,0,0,0,0,0,6.9%,2017
+3,4,Tampa Bay Buccaneers (TB),0,0,0,0,0,0,0,0,0,0,23.4%,2017
+4,5,Los Angeles Rams (LAR),0,0,0,0,0,0,0,0,0,0,34.8%,2017
+5,6,San Francisco 49ers (SF),0,0,0,0,0,0,0,0,0,0,99.3%,2017
+6,7,Seattle Seahawks (SEA),0,0,0,0,0,0,0,0,0,0,5.7%,2017
+7,8,Los Angeles Chargers (LAC),0,0,0,0,0,0,0,0,0,0,15.2%,2017
+8,9,Pittsburgh Steelers (PIT),0,0,0,0,0,0,0,0,0,0,98.6%,2017
+9,10,Philadelphia Eagles (PHI),0,0,0,0,0,0,0,0,0,0,5.2%,2017
+10,11,Las Vegas Raiders (LV),0,0,0,0,0,0,0,0,0,0,6.0%,2017
+11,12,New York Jets (NYJ),0,0,0,0,0,0,0,0,0,0,56.1%,2017
+12,13,New York Giants (NYG),0,0,0,0,0,0,0,0,0,0,0.7%,2017
+13,14,New Orleans Saints (NO),0,0,0,0,0,0,0,0,0,0,66.6%,2017
+14,15,New England Patriots (NE),0,0,0,0,0,0,0,0,0,0,97.2%,2017
+15,16,Miami Dolphins (MIA),0,0,0,0,0,0,0,0,0,0,2.2%,2017
+16,17,Atlanta Falcons (ATL),0,0,0,0,0,0,0,0,0,0,0.9%,2017
+17,18,Kansas City Chiefs (KC),0,0,0,0,0,0,0,0,0,0,26.1%,2017
+18,19,Jacksonville Jaguars (JAC),0,0,0,0,0,0,0,0,0,0,1.1%,2017
+19,20,Indianapolis Colts (IND),0,0,0,0,0,0,0,0,0,0,72.1%,2017
+20,21,Houston Texans (HOU),0,0,0,0,0,0,0,0,0,0,2.6%,2017
+21,22,Green Bay Packers (GB),0,0,0,0,0,0,0,0,0,0,4.0%,2017
+22,23,Detroit Lions (DET),0,0,0,0,0,0,0,0,0,0,1.4%,2017
+23,24,Denver Broncos (DEN),0,0,0,0,0,0,0,0,0,0,62.2%,2017
+24,25,Dallas Cowboys (DAL),0,0,0,0,0,0,0,0,0,0,20.2%,2017
+25,26,Cleveland Browns (CLE),0,0,0,0,0,0,0,0,0,0,2.7%,2017
+26,27,Cincinnati Bengals (CIN),0,0,0,0,0,0,0,0,0,0,1.5%,2017
+27,28,Chicago Bears (CHI),0,0,0,0,0,0,0,0,0,0,80.0%,2017
+28,29,Carolina Panthers (CAR),0,0,0,0,0,0,0,0,0,0,1.4%,2017
+29,30,Buffalo Bills (BUF),0,0,0,0,0,0,0,0,0,0,97.1%,2017
+30,31,Baltimore Ravens (BAL),0,0,0,0,0,0,0,0,0,0,97.0%,2017
+31,32,Washington Redskins (WAS),0,0,0,0,0,0,0,0,0,0,2.1%,2017
+0,1,Chicago Bears (CHI),50,27,9,17,6,1,0,16,191.0,11.9,80.0%,2018
+1,2,Los Angeles Rams (LAR),41,18,12,12,4,2,0,16,147.0,9.2,34.8%,2018
+2,3,Houston Texans (HOU),43,15,14,19,4,0,0,16,144.0,9.0,2.6%,2018
+3,4,New England Patriots (NE),30,18,10,12,2,0,2,16,135.0,8.4,97.2%,2018
+4,5,Baltimore Ravens (BAL),43,12,5,8,3,0,1,16,126.0,7.9,97.0%,2018
+5,6,Minnesota Vikings (MIN),50,12,8,7,3,0,0,16,124.0,7.8,73.1%,2018
+6,7,Kansas City Chiefs (KC),53,15,12,21,4,0,1,16,123.0,7.7,26.1%,2018
+7,8,Denver Broncos (DEN),44,17,10,13,2,0,0,16,122.0,7.6,62.2%,2018
+8,9,Seattle Seahawks (SEA),43,12,14,17,2,0,0,16,122.0,7.6,5.7%,2018
+9,10,Washington Redskins (WAS),46,15,11,18,1,0,0,16,120.0,7.5,2.1%,2018
+10,11,Indianapolis Colts (IND),38,15,11,15,0,0,0,16,116.0,7.3,72.1%,2018
+11,12,Tennessee Titans (TEN),39,11,6,10,2,0,1,16,113.0,7.1,6.9%,2018
+12,13,Pittsburgh Steelers (PIT),52,8,7,11,3,2,0,16,110.0,6.9,98.6%,2018
+13,14,New Orleans Saints (NO),49,12,12,19,1,0,0,16,108.0,6.8,66.6%,2018
+14,15,Jacksonville Jaguars (JAC),37,11,6,6,2,2,1,16,107.0,6.7,1.1%,2018
+15,16,Buffalo Bills (BUF),36,16,11,18,0,1,0,16,107.0,6.7,97.1%,2018
+16,17,Los Angeles Chargers (LAC),38,13,7,5,2,0,1,16,107.0,6.7,15.2%,2018
+17,18,Miami Dolphins (MIA),31,21,7,10,3,0,2,16,104.0,6.5,2.2%,2018
+18,19,Arizona Cardinals (ARI),49,7,9,13,2,0,0,16,100.0,6.3,1.2%,2018
+19,20,Detroit Lions (DET),43,7,7,9,2,0,0,16,98.0,6.1,1.4%,2018
+20,21,Dallas Cowboys (DAL),39,9,11,14,1,0,0,16,98.0,6.1,20.2%,2018
+21,22,Cleveland Browns (CLE),37,17,14,16,0,1,0,16,98.0,6.1,2.7%,2018
+22,23,Philadelphia Eagles (PHI),44,10,7,12,0,0,0,16,97.0,6.1,5.2%,2018
+23,24,Green Bay Packers (GB),44,7,8,8,1,0,0,16,92.0,5.8,4.0%,2018
+24,25,New York Jets (NYJ),39,13,7,12,3,0,2,16,91.0,5.7,56.1%,2018
+25,26,Carolina Panthers (CAR),35,13,9,13,1,0,0,16,88.0,5.5,1.4%,2018
+26,27,New York Giants (NYG),30,16,5,9,3,0,0,16,84.0,5.3,0.7%,2018
+27,28,Cincinnati Bengals (CIN),33,12,6,9,5,0,0,16,83.0,5.2,1.5%,2018
+28,29,Atlanta Falcons (ATL),37,15,4,8,2,0,0,16,77.0,4.8,0.9%,2018
+29,30,Tampa Bay Buccaneers (TB),38,9,8,11,1,0,0,16,68.0,4.3,23.4%,2018
+30,31,San Francisco 49ers (SF),37,2,5,8,1,1,1,16,53.0,3.3,99.3%,2018
+31,32,Las Vegas Raiders (LV),13,14,3,5,1,0,1,16,39.0,2.4,6.0%,2018
+0,1,New England Patriots (NE),47,25,11,14,5,1,2,16,236.0,14.8,97.2%,2019
+1,2,Pittsburgh Steelers (PIT),54,20,18,19,3,0,1,16,173.0,10.8,98.6%,2019
+2,3,San Francisco 49ers (SF),48,12,15,21,5,0,0,16,163.0,10.2,99.3%,2019
+3,4,Baltimore Ravens (BAL),37,13,12,15,6,1,0,16,154.0,9.6,97.0%,2019
+4,5,Los Angeles Rams (LAR),50,13,11,13,4,1,0,16,146.0,9.1,34.8%,2019
+5,6,Minnesota Vikings (MIN),48,17,14,18,2,1,0,16,142.0,8.9,73.1%,2019
+6,7,New York Jets (NYJ),35,12,9,8,5,2,1,16,137.0,8.6,56.1%,2019
+7,8,Kansas City Chiefs (KC),45,16,7,12,3,0,1,16,136.0,8.5,26.1%,2019
+8,9,New Orleans Saints (NO),51,13,10,11,3,1,1,16,135.0,8.4,66.6%,2019
+9,10,Tampa Bay Buccaneers (TB),47,12,16,20,6,0,0,16,134.0,8.4,23.4%,2019
+10,11,Tennessee Titans (TEN),43,14,9,10,3,1,1,16,131.0,8.2,6.9%,2019
+11,12,Buffalo Bills (BUF),44,14,9,15,0,1,1,16,130.0,8.1,97.1%,2019
+12,13,Seattle Seahawks (SEA),28,16,16,18,3,0,0,16,118.0,7.4,5.7%,2019
+13,14,Indianapolis Colts (IND),41,15,8,13,1,2,2,16,114.0,7.1,72.1%,2019
+14,15,Philadelphia Eagles (PHI),43,11,9,15,3,0,0,16,109.0,6.8,5.2%,2019
+15,16,Green Bay Packers (GB),41,17,7,12,0,0,0,16,108.0,6.8,4.0%,2019
+16,17,Jacksonville Jaguars (JAC),47,10,9,13,2,0,0,16,99.0,6.2,1.1%,2019
+17,18,Denver Broncos (DEN),40,10,6,8,1,0,0,16,99.0,6.2,62.2%,2019
+18,19,Dallas Cowboys (DAL),39,7,10,13,1,0,0,16,99.0,6.2,20.2%,2019
+19,20,Chicago Bears (CHI),32,10,9,12,1,1,1,16,96.0,6.0,80.0%,2019
+20,21,Carolina Panthers (CAR),53,14,7,8,1,2,0,16,91.0,5.7,1.4%,2019
+21,22,Atlanta Falcons (ATL),28,12,8,13,2,0,1,16,90.0,5.6,0.9%,2019
+22,23,Houston Texans (HOU),31,12,10,14,2,0,0,16,90.0,5.6,2.6%,2019
+23,24,Cleveland Browns (CLE),38,14,6,12,1,0,0,16,87.0,5.4,2.7%,2019
+24,25,Washington Redskins (WAS),46,13,9,15,0,0,1,16,86.0,5.4,2.1%,2019
+25,26,New York Giants (NYG),36,10,6,8,2,1,0,16,83.0,5.2,0.7%,2019
+26,27,Los Angeles Chargers (LAC),30,11,3,5,0,0,1,16,76.0,4.8,15.2%,2019
+27,28,Las Vegas Raiders (LV),32,9,6,8,2,0,0,16,70.0,4.4,6.0%,2019
+28,29,Arizona Cardinals (ARI),40,7,10,19,0,0,0,16,68.0,4.3,1.2%,2019
+29,30,Detroit Lions (DET),28,7,11,13,1,0,2,16,66.0,4.1,1.4%,2019
+30,31,Cincinnati Bengals (CIN),31,11,5,9,0,1,1,16,61.0,3.8,1.5%,2019
+31,32,Miami Dolphins (MIA),23,13,3,9,1,1,1,16,44.0,2.8,2.2%,2019
