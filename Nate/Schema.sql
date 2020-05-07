@@ -1,34 +1,34 @@
 CREATE TABLE salaries (
-    PlayerID VARCHAR(30)   NOT NULL,
-    Salary INT   NOT NULL,
-    FOREIGN KEY (PlayerID) REFERENCES players(PlayerID)
+    "PlayerID" VARCHAR(50)   NOT NULL,
+    "Salary" INT   NOT NULL
+    ---FOREIGN KEY ("PlayerID") REFERENCES players("PlayerID")
 );
 
 CREATE TABLE stadiums (
-    Name varchar(50)   NOT NULL,
-    Capacity INT   NOT NULL,
-    City VARCHAR(50)   NOT NULL,
-    State VARCHAR(30)   NOT NULL,
-    Surface Varchar(30)   NOT NULL,
-    Roof_Type VARCHAR(30)   NOT NULL,
-    stad_id INT   NOT NULL,
-    Opened INT   NOT NULL,
-    PRIMARY KEY (stad_id)
+    "Name" varchar(50)   NOT NULL,
+    "Capacity" INT   NOT NULL,
+    "City" VARCHAR(50)   NOT NULL,
+    "State" VARCHAR(50)   NOT NULL,
+    "Surface" Varchar(50)   NOT NULL,
+    "Roof_Type" VARCHAR(50)   NOT NULL,
+    "stad_id" INT   NOT NULL,
+    "Opened" INT   NOT NULL,
+    PRIMARY KEY ("stad_id")
 );
 
 CREATE TABLE teams (
-    TM VARCHAR(4)   NOT NULL,
-    Team VARCHAR(50)   NOT NULL,
-    PRIMARY KEY (Team)
+    "TM" VARCHAR(4)   NOT NULL,
+    "Team" VARCHAR(50)   NOT NULL,
+    PRIMARY KEY ("Team")
 );
 
 CREATE TABLE owners (
-    Team VARCHAR(50)   NOT NULL,
-    Owner VARCHAR(50)   NOT NULL,
-    Year_Acquired INT   NOT NULL,
-    stad_id INT   NOT NULL,
-    FOREIGN KEY (Team) REFERENCES teams(Team),
-    FOREIGN KEY (stad_id) REFERENCES stadiums(stad_id)
+    "Team" VARCHAR(50)   NOT NULL,
+    "Owner" VARCHAR(100)   NOT NULL,
+    "Year_Acquired" INT   NOT NULL,
+    "stad_id" INT   NOT NULL,
+    FOREIGN KEY ("Team") REFERENCES teams("Team"),
+    FOREIGN KEY ("stad_id") REFERENCES stadiums("stad_id")
 );
 
 
