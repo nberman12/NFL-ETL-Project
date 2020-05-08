@@ -1,0 +1,31 @@
+,stad_id,Name,Capacity,City,State,Surface,Roof_Type,Opened
+0,0,Allegiant Stadium,65000,Paradise, Nevada,Grass,Fixed,2020
+1,1,Arrowhead Stadium,76416,Kansas City, Missouri,Bermuda grass,Open,1972
+2,2,AT&T Stadium,80000,Arlington, Texas,Hellas Matrix Turf,Retractable,2009
+3,3,Bank of America Stadium,75523,Charlotte, North Carolina,Bermuda grass,Open,1996
+4,4,CenturyLink Field,69000,Seattle, Washington,FieldTurf Revolution 360[8],Open,2002
+5,5,Empower Field at Mile High,76125,Denver, Colorado,Kentucky bluegrass,Open,2001
+6,6,FedExField,82000,Landover, Maryland,Bermuda grass,Open,1997
+7,7,FirstEnergy Stadium,67895,Cleveland, Ohio,Kentucky bluegrass,Open,1999
+8,8,Ford Field,65000,Detroit, Michigan,FieldTurf Classic HD[8],Fixed,2002
+9,9,Gillette Stadium,66829,Foxborough, Massachusetts,FieldTurf CORE[8],Open,2002
+10,10,Hard Rock Stadium,65326,Miami Gardens, Florida,Platinum TE Paspalum,Open,1987
+11,11,Heinz Field,68400,Pittsburgh, Pennsylvania,Kentucky bluegrass,Open,2001
+12,12,Lambeau Field,81441,Green Bay, Wisconsin,Desso GrassMaster[18],Open,1957
+13,13,Levi's Stadium,68500,Santa Clara, California,Bermuda grass / Perennial Ryegrass mixture,Open,2014
+14,14,Lincoln Financial Field,69596,Philadelphia, Pennsylvania,Desso GrassMaster[21],Open,2003
+15,15,Lucas Oil Stadium,67000,Indianapolis, Indiana,Shaw Sports Momentum Pro,Retractable,2008
+16,16,M&T Bank Stadium,71008,Baltimore, Maryland,Bermuda grass,Open,1998
+17,17,Mercedes-Benz Superdome,73208,New Orleans, Louisiana,FieldTurf Revolution 360[8],Fixed,1975
+18,18,Mercedes-Benz Stadium,71000,Atlanta, Georgia,FieldTurf Revolution[26],Retractable,2017
+19,19,MetLife Stadium,82500,East Rutherford, New Jersey,UBU Sports Speed Series S5-M Synthetic Turf[28],Open,2010
+20,20,New Era Field,71608,Orchard Park, New York,A-Turf Titan 50[30],Open,1973
+21,21,Nissan Stadium,69143,Nashville, Tennessee,Bermuda grass,Open,1999
+22,22,NRG Stadium,72220,Houston, Texas,Hellas Matrix Turf[32],Retractable,2002
+23,23,Paul Brown Stadium,65515,Cincinnati, Ohio,UBU Speed Series S5-M Synthetic Turf,Open,2000
+24,24,Raymond James Stadium,65890,Tampa, Florida,Bermuda grass,Open,1998
+25,25,SoFi Stadium,70240,Inglewood, California,Artificial turf,Fixed,2020
+26,26,Soldier Field,61500,Chicago, Illinois,Kentucky bluegrass,Open,1924[nb 1]
+27,27,State Farm Stadium,63400,Glendale, Arizona,Bermuda grass,Retractable,2006
+28,28,TIAA Bank Field,69132,Jacksonville, Florida,Bermuda grass,Open,1995
+29,29,U.S. Bank Stadium,66655,Minneapolis, Minnesota,UBU Speed Series S5-M Synthetic Turf[40],Fixed,2016
