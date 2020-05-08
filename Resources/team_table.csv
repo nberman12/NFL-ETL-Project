@@ -1,0 +1,33 @@
+,TM,Team,Owner,Year_Acquired,stad_id
+0,ARI,Arizona Cardinals,Estate of Bill Bidwill,2019.0,27.0
+1,ATL,Atlanta Falcons,Arthur Blank,2004.0,18.0
+2,BAL,Baltimore Ravens,Steve Bisciotti,2004.0,16.0
+3,BUF,Buffalo Bills,Kim and Terry Pegula,2014.0,20.0
+4,CAR,Carolina Panthers,David Tepper,2018.0,3.0
+5,CHI,Chicago Bears,Virginia Halas McCaskey,1983.0,26.0
+6,CIN,Cincinnati Bengals,Mike Brown,1991.0,23.0
+7,CLE,Cleveland Browns,Jimmy and Dee Haslam,2012.0,7.0
+8,DAL,Dallas Cowboys,Jerry Jones,1989.0,2.0
+9,DEN,Denver Broncos,"Joe Ellis, trustee6",2019.0,5.0
+10,DET,Detroit Lions,Martha Ford[1],2014.0,8.0
+11,GB,Green Bay Packers,"Green Bay Packers, Inc.4",1923.0,12.0
+12,HOU,Houston Texans,Janice McNair and family,2018.0,22.0
+13,IND,Indianapolis Colts,Jim Irsay,1997.0,15.0
+14,JAX,Jacksonville Jaguars,Shahid Khan,2012.0,28.0
+15,KC,Kansas City Chiefs,Clark Hunt and siblings,2006.0,1.0
+16,LV,Las Vegas Raiders,Carol and Mark Davis (mother and son),2011.0,0.0
+17,LAC,Los Angeles Chargers,Dean Spanos,2018.0,25.0
+18,LAR,Los Angeles Rams,Stan Kroenke1,2010.0,25.0
+19,MIA,Miami Dolphins,Stephen M. Ross,2008.0,10.0
+20,MIN,Minnesota Vikings,Zygi Wilf,2005.0,29.0
+21,NE,New England Patriots,Robert Kraft,1994.0,9.0
+22,NO,New Orleans Saints,Gayle Benson,2018.0,17.0
+23,NYG,New York Giants,John Mara (50%)3 Steve Tisch (50%),2005.0,19.0
+24,NYJ,New York Jets,Robert Wood Johnson IV5 and Christopher Wold Johnson,2000.0,19.0
+25,PHI,Philadelphia Eagles,Jeffrey Lurie,1994.0,14.0
+26,PIT,Pittsburgh Steelers,"Art Rooney II1,3 (60%) and family (12%)1,2,3",2017.0,11.0
+27,SF,San Francisco 49ers,Denise DeBartolo York and Jed York1,2009.0,13.0
+28,SEA,Seattle Seahawks,"Jody Allen, trustee6",2018.0,4.0
+29,TB,Tampa Bay Buccaneers,Bryan Glazer and siblings,2014.0,24.0
+30,TEN,Tennessee Titans,Amy Adams Strunk 2,2013.0,21.0
+31,WAS,Washington Redskins,Dan Snyder,1999.0,6.0
