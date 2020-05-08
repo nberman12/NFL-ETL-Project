@@ -1,7 +1,7 @@
 CREATE TABLE salaries (
     "PlayerID" VARCHAR(50)   NOT NULL,
-    "Salary" INT   NOT NULL
-    ---FOREIGN KEY ("PlayerID") REFERENCES players("PlayerID")
+    "Salary" INT   NOT NULL,
+    FOREIGN KEY ("PlayerID") REFERENCES players("PlayerID")
 );
 
 CREATE TABLE stadiums (
