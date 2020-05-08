@@ -1,5 +1,4 @@
-# NFL-ETL-Project
-
+# NFL-ETL-Project 
 This program will deliver a relational database with statistical information about NFL players. The information has been aggregated at the team and individual player level to allow for a variety of analyses.
 
 The program uses *** websites to scrape the information from the web. It also produces *** tables.
