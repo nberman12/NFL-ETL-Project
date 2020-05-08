@@ -42,7 +42,7 @@ These are the steps that were taken:
 4.) owners: 
 * Kept all the columns from the raw data
 * Renamed 'Franchise' to 'Team'
-    * Merged Team on the stadium file for team to create a link of owners to stadiums
+* Merged Team on the stadium file for team to create a link of owners to stadiums
     
 ## Step 3 - Load
 
