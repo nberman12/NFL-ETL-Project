@@ -6,7 +6,7 @@ The program uses 7 websites to scrape the information from the web. It produces 
 These are the steps that were taken:
 * The database schema was defined as follows:
 
-![Schema](Resources/ERD.png)
+![Schema](Resources/images/DatabaseDiagram.png)
 
 * Based on our ERD, we then predefined the database to PostgreSQL (see the individual folders for the tables they created).
 
