@@ -19,7 +19,7 @@ CREATE TABLE stadiums (
 CREATE TABLE teams (
     "TM" VARCHAR(4)   NOT NULL,
     "Team" VARCHAR(50)   NOT NULL,
-    PRIMARY KEY ("Team")
+    PRIMARY KEY ("TM")
 );
 
 CREATE TABLE owners (
