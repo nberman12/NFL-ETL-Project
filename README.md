@@ -1,12 +1,10 @@
 # NFL-ETL-Project 
 This program will deliver a relational database with statistical information about NFL players. The information has been aggregated at the team and individual player level to allow for a variety of analyses.
 
-The program uses *** websites to scrape the information from the web. It also produces *** tables.
+The program uses 7 websites to scrape the information from the web. It also produces 23 tables.
 
 These are the steps that were taken:
-* The database schema was defined as follows:
-
-
+* The database schema was defined as follows {src="..Resources/}:
 
 * Based on our ERD, we then predefined the database to PostgreSQL (see the individual folders for the tables they created).
 
@@ -17,10 +15,13 @@ These are the steps that were taken:
 
 ### The Sources:
 
-1.) wikipedia.com
-2.) pro-football-reference.com
-3.) rotowire.com
-4.) msn.com
+1. wikipedia.com
+2. pro-football-reference.com
+3. rotowire.com
+4. msn.com
+5. footballdb.com
+6. espn.com
+7. fantasypros.com
 *** See ETL Excel file for details
 
 
