@@ -23,7 +23,7 @@ CREATE TABLE teams (
 );
 
 CREATE TABLE owners (
-    "Team" VARCHAR(50)   NOT NULL,
+    "TM" VARCHAR(50)   NOT NULL,
     "Owner" VARCHAR(100)   NOT NULL,
     "Year_Acquired" INT   NOT NULL,
     "stad_id" INT   NOT NULL,
