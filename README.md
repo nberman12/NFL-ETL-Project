@@ -87,7 +87,7 @@ These are the steps that were taken:
 * Dropped extra/unnecessary columns
 *Reordered columns to make table easier to understand
 
-*** See [ETL Excel](Rescources/ETL-Full_Picture.xlsx) file for details
+*** See [ETL Excel](Rescources/ETL-Full_Picture.xlsx) file for further details
     
 ## Step 3 - Load
 
