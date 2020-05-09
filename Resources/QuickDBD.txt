@@ -1,0 +1,373 @@
+players	
+-------	
+PlayerID PK VARCHAR(50)
+POS VARCAR(10)
+Age INT
+HT  VARCAR(10)
+WT  VARCAR(10)
+Exp VARCAR(10)
+College VARCAR(50)
+FullName    VARCAR(50)
+First_Name  VARCAR(50)
+Last_Name   VARCAR(50)
+TeamID  VARCHAR
+
+defense
+-------
+PlayerID    VARCHAR(50) FK >- players.PlayerID
+GP  INT
+TACKLES_SOLO    INT
+TACKLES_AST INT
+TACKLES_TOT INT
+SACKS   FLOAT
+SACKS_SCKYDS    INT
+SACKS_TFL   FLOAT
+INTERCEPTIONS_PD    INT
+INTERCEPTIONS_INT   INT
+INTERCEPTIONS_YDS   INT
+INTERCEPTIONS_LNG   INT
+INTERCEPTIONS_TD    INT
+FUMBLES_FF  INT
+FUMBLES_FR  INT
+FUMBLES_FTD INT
+KB  INT
+
+punting	
+------	
+PlayerID    VARCHAR(50) FK >- players.PlayerID
+GP  INT
+PUNTS   INT
+PUNT_YDS    INT
+LNG INT
+PUNT_AVG    FLOAT
+NET FLOAT
+PBLK    INT
+IN20    INT
+TB  INT
+FC  INT
+ATT INT
+RETURN_YDS  INT
+RETURN_AVG  FLOAT
+
+passing	
+------	
+PlayerID    VARCHAR(50) FK >- players.PlayerID
+GP  INT
+CMP INT
+ATT INT
+Rename  FLOAT
+YDS INT
+AVG INT
+YDS_G   FLOAT
+LNG INT
+TD  INT
+INT INT
+SACK    INT
+SYL INT
+QBR FLOAT
+RTG INT
+
+rushing	
+-----	
+PlayerID    VARCHAR(50) FK >- players.PlayerID
+GP  INT
+ATT INT
+YDS INT
+AVG FLOAT
+LNG INT
+BIG INT
+TD  INT
+YDS_G   FLOAT
+FUM INT
+LST INT
+FD  INT
+
+receiving	
+-----	
+PlayerID    VARCHAR(50) FK >- players.PlayerID
+GP  INT
+REC INT
+TGTS    INT
+YDS INT
+AVG FLOAT
+TD  INT
+LNG INT
+BIG INT
+YDS_G   INT
+FUM INT
+LST INT
+YAC INT
+FD  INT
+
+returning	
+-----	
+PlayerID    VARCHAR(50) FK >- players.PlayerID
+GP  INT
+KO_ATT  INT
+KO_YDS  INT
+KO_AVG  FLOAT
+KO_LNG  INT
+KO_TD   INT
+PUNTS_ATT   INT
+PUNTS_YDS   INT
+PUNTS_AVG   FLOAT
+PUNTS_LNG   INT
+PUNTS_TD    INT
+PUNTS_FC    INT
+
+scoring	
+-----	
+PlayerID    VARCHAR(50) FK >- players.PlayerID
+GP  INT
+TD_RUSH INT
+TD_REC  INT
+TD_RET  INT
+TD  INT
+SCORING_FG  INT
+SCORING_PAT INT
+SCORING_2PT INT
+SCORING_PTS INT
+SCORING_TP_G    FLOAT
+
+kicking	
+-----	
+PlayerID    VARCHAR(50) FK >- players.PlayerID
+GP  INT
+FGM INT
+FGA INT
+FG_PERCENT  FLOAT
+LNG INT
+FG_01_19    VARCHAR(10)
+FG_20_29    VARCHAR(10)
+FG_30_39    VARCHAR(10)
+FG_40_49    VARCHAR(10)
+FG_50   VARCHAR(10)
+XPM INT
+XPA INT
+XP_PERCENT  FLOAT
+
+players	
+-------	
+PlayerID PK VARCHAR(50)
+POS VARCAR(10)
+Age INT
+HT  VARCAR(10)
+WT  VARCAR(10)
+Exp VARCAR(10)
+College VARCAR(50)
+FullName    VARCAR(50)
+First_Name  VARCAR(50)
+Last_Name   VARCAR(50)
+TeamID  VARCHAR
+
+fantasy_te	
+-----	
+Rank    INT
+PlayerID    VARCHAR(50) FK >- players.PlayerID
+REC INT
+REC_TGT INT
+REC_YDS INT
+REC_Y_R FLOAT
+REC_LG  INT
+REC_20  INT
+REC_TD  INT
+RUSH_ATT    INT
+RUSH_YDS    INT
+RUSH_TD INT
+FL  INT
+G   INT
+FPTS    FLOAT
+FPTS_G  FLOAT
+OWN VARCHAR(10)
+Year    INT
+
+fantasy_db	
+-----	
+Rank    INT
+PlayerID    VARCHAR(50) FK >- players.PlayerID
+TACKLE  INT
+ASSIST  INT
+SACK    FLOAT
+PD  INT
+INT INT
+FF  INT
+FR  INT
+DEF_TD  INT
+G   INT
+FPTS    FLOAT
+FPTS_G  FLOAT
+OWN VARCHAR(10)
+Year    INT
+
+fantasy_dl	
+------	
+Rank    INT
+PlayerID    VARCHAR(50) FK >- players.PlayerID
+TACKLE  INT
+ASSIST  INT
+SACK    FLOAT
+PD  INT
+INT INT
+FF  INT
+FR  INT
+DEF_TD  INT
+G   INT
+FPTS    FLOAT
+FPTS_G  FLOAT
+OWN VARCHAR(10)
+Year    INT
+
+fantasy_qb	
+-----	
+Rank    INT
+PlayerID    VARCHAR(50) FK >- players.PlayerID
+PASS_CMP    INT
+PASS_ATT    INT
+PASS_PCT    FLOAT
+PASS_YDS    INT
+PASS_Y/A    INT
+PASS_TD INT
+PASS_INT    INT
+PASS_SACKS  INT
+RUSH_ATT    INT
+RUSH_YDS    INT
+RUSH_TD INT
+FL  INT
+G   INT
+FPTS    FLOAT
+FPTS_G  FLOAT
+OWN VARCHAR(10)
+Year    INT
+
+	
+fantasy_lb	
+-----	
+Rank    INT
+PlayerID    VARCHAR(50) FK >- players.PlayerID
+TACKLE  INT
+ASSIST  INT
+SACK    INT
+PD  INT
+INT INT
+FF  INT
+FR  INT
+DEF_TD  INT
+G   INT
+FPTS    FLOAT
+FPTS_G  FLOAT
+OWN VARCHAR(10)
+Year    INT
+
+fantasy_wr	
+-----	
+Rank    INT
+PlayerID    VARCHAR(50) FK >- players.PlayerID
+REC INT
+REC_TGT INT
+REC_YDS INT
+REC_Y_R FLOAT
+REC_LG  INT
+REC_20  INT
+REC_TD  INT
+RUSH_ATT    INT
+RUSH_YDS    INT
+RUSH_TD INT
+FL  INT
+G   INT
+FPTS    FLOAT
+FPTS_G  FLOAT
+OWN VARCHAR(10)
+Year    INT
+
+fantasy_rb	
+-----	
+Rank    INT
+PlayerID    VARCHAR(50) FK >- players.PlayerID
+RUSH_ATT    INT
+RUSH_YDS    INT
+RUSH_Y_A    INT
+RUSH_LG INT
+RUSH_20 INT
+RUSH_TD INT
+REC INT
+REC_TGT INT
+REC_YDS INT
+REC_Y_R INT
+REC_TD  INT
+FL  INT
+G   INT
+FPTS    FLOAT
+FPTS_G  FLOAT
+OWN VARCHAR(10)
+Year    INT
+
+players	
+-------	
+PlayerID PK VARCHAR(50)
+POS VARCAR(10)
+Age INT
+HT  VARCAR(10)
+WT  VARCAR(10)
+Exp VARCAR(10)
+College VARCAR(50)
+FullName    VARCAR(50)
+First_Name  VARCAR(50)
+Last_Name   VARCAR(50)
+TeamID VARCHAR FK >- teams.TM
+
+metrics	
+-----	
+PlayerID    VARCHAR(50) FK >- players.PlayerID
+Height  VARCHAR(10)
+Weight  VARCHAR(10)
+Forty   VARCHAR(10)
+Shuttle VARCHAR(10)
+Cone    VARCHAR(10)
+Vertical    VARCHAR(10)
+Broad   VARCHAR(10)
+Bench   VARCHAR(10)
+Hand    VARCHAR(10)
+Arm VARCHAR(10)
+
+salaries	
+-----	
+PlayerID    VARCHAR(50) FK >- players.PlayerID
+Salary  INT
+
+stadiums	
+-----
+Name    VARCHAR(50)
+Capacity    INT
+City    VARCHAR(50)
+State   VARCHAR(50)
+Surface VARCHAR(50)
+Roof_Type    VARCHAR(50)
+Opened  INT
+stad_id INT PK
+
+Team_Stats	
+-----	
+Team    VARCHAR(30) FK >- teams.Team
+Year    Int
+Points_Scored/GM    FLOAT(4)
+Rush_Yds/GM FLOAT(4)
+Pass_Yds/GM FLOAT(4)
+Total_Yds/GM    FLOAT(4)
+Points_Allowed/GM   FLOAT(4)
+Rush_Yds_Allowed/GM FLOAT(4)
+Pass_Yds_Allowed/GM FLOAT(4)
+Yds_Allowed/GM  FLOAT(4)
+
+teams	
+-----	
+Team    VARCHAR(50) PK
+TM  VARCHAR(4)
+
+owners	
+------
+Team    VARCHAR(30) FK >- teams.Team
+Year    Int
+Owner   VARCHAR(100)
+Year_Acquired   INT
+stad_id INT FK >- stadiums.stad_id
+
