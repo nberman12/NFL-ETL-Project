@@ -21,15 +21,11 @@ DROP TABLE IF EXISTS scoring CASCADE;
 DROP TABLE IF EXISTS kicking CASCADE;
 
 CREATE TABLE "teams" (
-    "Team" VARCHAR(50)   NOT NULL,
-    "TM" VARCHAR(4)   NOT NULL,
-    CONSTRAINT "pk_teams" PRIMARY KEY (
-        "Team"
-     )
-);
+    "Team" VARCHAR(50) NOT NULL,
+    "TM" VARCHAR(4) PRIMARY KEY NOT NULL);
 
 CREATE TABLE "players" (
-    "PlayerID" VARCHAR(50)   NOT NULL,
+    "PlayerID" VARCHAR(50) PRIMARY KEY  NOT NULL,
     "POS" VARCHAR(10)   NOT NULL,
     "Age" INT   NOT NULL,
     "HT" VARCHAR(10)   NOT NULL,
@@ -39,11 +35,7 @@ CREATE TABLE "players" (
     "FullName" VARCHAR(50)   NOT NULL,
     "First_Name" VARCHAR(50)   NOT NULL,
     "Last_Name" VARCHAR(50)   NOT NULL,
-    "TeamID" VARCHAR   NOT NULL,
-    CONSTRAINT "pk_players" PRIMARY KEY (
-        "PlayerID"
-     )
-);
+    "TeamID" VARCHAR   NOT NULL);
 
 CREATE TABLE "metrics" (
     "PlayerID" VARCHAR(50)   NOT NULL,
@@ -72,14 +64,10 @@ CREATE TABLE "stadiums" (
     "Surface" VARCHAR(50)   NOT NULL,
     "Roof_Type" VARCHAR(50)   NOT NULL,
     "Opened" INT   NOT NULL,
-    "stad_id" INT   NOT NULL,
-    CONSTRAINT "pk_stadiums" PRIMARY KEY (
-        "stad_id"
-     )
-);
+    "stad_id" INT PRIMARY KEY  NOT NULL);
 
 CREATE TABLE "Team_Stats" (
-    "Team" VARCHAR(30)   NOT NULL,
+    "TM" VARCHAR(30)   NOT NULL,
     "Year" Int   NOT NULL,
     "Points_Scored/GM" FLOAT(4)   NOT NULL,
     "Rush_Yds/GM" FLOAT(4)   NOT NULL,
@@ -93,7 +81,7 @@ CREATE TABLE "Team_Stats" (
 
 
 CREATE TABLE "owners" (
-    "Team" VARCHAR(30)   NOT NULL,
+    "TM" VARCHAR(30)   NOT NULL,
     "Year" Int   NOT NULL,
     "Owner" VARCHAR(100)   NOT NULL,
     "Year_Acquired" INT   NOT NULL,
@@ -429,11 +417,11 @@ REFERENCES "players" ("PlayerID");
 ALTER TABLE "salaries" ADD CONSTRAINT "fk_salaries_PlayerID" FOREIGN KEY("PlayerID")
 REFERENCES "players" ("PlayerID");
 
-ALTER TABLE "Team_Stats" ADD CONSTRAINT "fk_Team_Stats_Team" FOREIGN KEY("Team")
-REFERENCES "teams" ("Team");
+ALTER TABLE "Team_Stats" ADD CONSTRAINT "fk_Team_Stats_Team" FOREIGN KEY("TM")
+REFERENCES "teams" ("TM");
 
-ALTER TABLE "owners" ADD CONSTRAINT "fk_owners_Team" FOREIGN KEY("Team")
-REFERENCES "teams" ("Team");
+ALTER TABLE "owners" ADD CONSTRAINT "fk_owners_Team" FOREIGN KEY("TM")
+REFERENCES "teams" ("TM");
 
 ALTER TABLE "owners" ADD CONSTRAINT "fk_owners_stad_id" FOREIGN KEY("stad_id")
 REFERENCES "stadiums" ("stad_id");
