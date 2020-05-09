@@ -1,7 +1,7 @@
 # NFL-ETL-Project 
 This program will deliver a relational database with statistical information about NFL players. The information has been aggregated at the team and individual player level to allow for a variety of analyses.
 
-The program uses 7 websites to scrape the information from the web. It also produces 23 tables.
+The program uses 7 websites to scrape the information from the web. It produces 23 tables.
 
 These are the steps that were taken:
 * The database schema was defined as follows {src="..Resources/}:
