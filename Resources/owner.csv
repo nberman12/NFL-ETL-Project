@@ -1,33 +1,33 @@
-TM,Owner,Year_Acquired,stad_id
-ARI,Estate of Bill Bidwill,2019.0,27.0
-ATL,Arthur Blank,2004.0,18.0
-BAL,Steve Bisciotti,2004.0,16.0
-BUF,Kim and Terry Pegula,2014.0,20.0
-CAR,David Tepper,2018.0,3.0
-CHI,Virginia Halas McCaskey,1983.0,26.0
-CIN,Mike Brown,1991.0,23.0
-CLE,Jimmy and Dee Haslam,2012.0,7.0
-DAL,Jerry Jones,1989.0,2.0
-DEN,"Joe Ellis, trustee6",2019.0,5.0
-DET,Martha Ford[1],2014.0,8.0
-GB,"Green Bay Packers, Inc.4",1923.0,12.0
-HOU,Janice McNair and family,2018.0,22.0
-IND,Jim Irsay,1997.0,15.0
-JAX,Shahid Khan,2012.0,28.0
-KC,Clark Hunt and siblings,2006.0,1.0
-LV,Carol and Mark Davis (mother and son),2011.0,0.0
-LAC,Dean Spanos,2018.0,25.0
-LAR,Stan Kroenke1,2010.0,25.0
-MIA,Stephen M. Ross,2008.0,10.0
-MIN,Zygi Wilf,2005.0,29.0
-NE,Robert Kraft,1994.0,9.0
-NO,Gayle Benson,2018.0,17.0
-NYG,John Mara (50%)3 Steve Tisch (50%),2005.0,19.0
-NYJ,Robert Wood Johnson IV5 and Christopher Wold Johnson,2000.0,19.0
-PHI,Jeffrey Lurie,1994.0,14.0
-PIT,"Art Rooney II1,3 (60%) and family (12%)1,2,3",2017.0,11.0
-SF,Denise DeBartolo York and Jed York1,2009.0,13.0
-SEA,"Jody Allen, trustee6",2018.0,4.0
-TB,Bryan Glazer and siblings,2014.0,24.0
-TEN,Amy Adams Strunk 2,2013.0,21.0
-WAS,Dan Snyder,1999.0,6.0
+,TM,Owner,Year_Acquired,stad_id
+0,ARI,Estate of Bill Bidwill,2019,27
+1,ATL,Arthur Blank,2004,18
+2,BAL,Steve Bisciotti,2004,16
+3,BUF,Kim and Terry Pegula,2014,20
+4,CAR,David Tepper,2018,3
+5,CHI,Virginia Halas McCaskey,1983,26
+6,CIN,Mike Brown,1991,23
+7,CLE,Jimmy and Dee Haslam,2012,7
+8,DAL,Jerry Jones,1989,2
+9,DEN,"Joe Ellis, trustee6",2019,5
+10,DET,Martha Ford[1],2014,8
+11,GB,"Green Bay Packers, Inc.4",1923,12
+12,HOU,Janice McNair and family,2018,22
+13,IND,Jim Irsay,1997,15
+14,JAX,Shahid Khan,2012,28
+15,KC,Clark Hunt and siblings,2006,1
+16,LV,Carol and Mark Davis (mother and son),2011,0
+17,LAC,Dean Spanos,2018,25
+18,LAR,Stan Kroenke1,2010,25
+19,MIA,Stephen M. Ross,2008,10
+20,MIN,Zygi Wilf,2005,29
+21,NE,Robert Kraft,1994,9
+22,NO,Gayle Benson,2018,17
+23,NYG,John Mara (50%)3 Steve Tisch (50%),2005,19
+24,NYJ,Robert Wood Johnson IV5 and Christopher Wold Johnson,2000,19
+25,PHI,Jeffrey Lurie,1994,14
+26,PIT,"Art Rooney II1,3 (60%) and family (12%)1,2,3",2017,11
+27,SF,Denise DeBartolo York and Jed York1,2009,13
+28,SEA,"Jody Allen, trustee6",2018,4
+29,TB,Bryan Glazer and siblings,2014,24
+30,TEN,Amy Adams Strunk 2,2013,21
+31,WAS,Dan Snyder,1999,6
