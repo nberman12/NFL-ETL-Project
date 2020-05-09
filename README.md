@@ -22,6 +22,7 @@ These are the steps that were taken:
 5. footballdb.com
 6. espn.com
 7. fantasypros.com
+
 *** See ETL Excel file for details
 
 
